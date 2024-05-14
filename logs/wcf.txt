@@ -1,0 +1,927 @@
+[2024-05-14 17:56:34.834] [debug] [WCF] [log.cpp::33::InitLogger] InitLogger with debug level
+[2024-05-14 17:56:34.834] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-05-14 17:56:34.836] [info] [WCF] [rpc_server.cpp::1004::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2024-05-14 17:56:34.840] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 17:56:34.840] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 17:56:34.840] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 17:56:34.840] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 17:56:34.840] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 17:56:34.840] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 17:56:34.857] [error] [WCF] [rpc_server.cpp::1015::RunServer] cmdSock-nng_recv error: Object closed
+[2024-05-14 17:56:34.857] [debug] [WCF] [rpc_server.cpp::1043::RunServer] Leave RunServer
+[2024-05-14 17:56:35.861] [info] [WCF] [rpc_server.cpp::1071::RpcStopServer] Server stoped.
+[2024-05-14 17:57:11.160] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-05-14 17:57:11.161] [info] [WCF] [rpc_server.cpp::1004::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2024-05-14 17:57:11.165] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 17:57:11.165] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 17:57:11.165] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 17:57:11.165] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 17:57:11.165] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 17:57:11.165] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 17:57:11.182] [error] [WCF] [rpc_server.cpp::1015::RunServer] cmdSock-nng_recv error: Object closed
+[2024-05-14 17:57:11.182] [debug] [WCF] [rpc_server.cpp::1043::RunServer] Leave RunServer
+[2024-05-14 17:57:12.190] [info] [WCF] [rpc_server.cpp::1071::RpcStopServer] Server stoped.
+[2024-05-14 17:58:48.789] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-05-14 17:58:48.790] [info] [WCF] [rpc_server.cpp::1004::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2024-05-14 17:58:48.794] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 17:58:48.794] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 17:58:48.794] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 17:58:48.794] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 17:58:48.794] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 17:58:48.794] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 17:58:48.794] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 17:58:48.794] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 17:58:48.813] [error] [WCF] [rpc_server.cpp::1015::RunServer] cmdSock-nng_recv error: Object closed
+[2024-05-14 17:58:48.813] [debug] [WCF] [rpc_server.cpp::1043::RunServer] Leave RunServer
+[2024-05-14 17:58:49.813] [info] [WCF] [rpc_server.cpp::1071::RpcStopServer] Server stoped.
+[2024-05-14 17:59:25.979] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-05-14 17:59:25.979] [info] [WCF] [rpc_server.cpp::1004::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2024-05-14 17:59:25.984] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 17:59:25.984] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 17:59:25.984] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 17:59:25.984] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 17:59:25.984] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 17:59:25.984] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 17:59:25.984] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 17:59:25.984] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 17:59:25.985] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x12[Functions_FUNC_GET_CONTACTS] length: 2
+[2024-05-14 17:59:26.023] [debug] [WCF] [pb_util.cpp::71::encode_contacts] encode_contacts[2209]
+[2024-05-14 17:59:26.028] [debug] [WCF] [pb_util.cpp::71::encode_contacts] encode_contacts[2209]
+[2024-05-14 17:59:26.037] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 159478
+[2024-05-14 17:59:27.382] [error] [WCF] [rpc_server.cpp::1015::RunServer] cmdSock-nng_recv error: Object closed
+[2024-05-14 17:59:27.382] [debug] [WCF] [rpc_server.cpp::1043::RunServer] Leave RunServer
+[2024-05-14 17:59:28.393] [info] [WCF] [rpc_server.cpp::1071::RpcStopServer] Server stoped.
+[2024-05-14 18:09:11.010] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-05-14 18:09:11.010] [info] [WCF] [rpc_server.cpp::1004::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2024-05-14 18:09:11.015] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:09:11.015] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:09:11.015] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:09:11.015] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:09:11.015] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:09:11.015] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:09:11.016] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:09:11.016] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:09:11.016] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x30[Functions_FUNC_ENABLE_RECV_TXT] length: 2
+[2024-05-14 18:09:11.016] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:09:11.017] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x40[Functions_FUNC_DISABLE_RECV_TXT] length: 2
+[2024-05-14 18:09:11.017] [info] [WCF] [rpc_server.cpp::455::PushMessage] MSG Server listening on tcp://0.0.0.0:10087
+[2024-05-14 18:09:11.017] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:09:11.035] [error] [WCF] [rpc_server.cpp::1015::RunServer] cmdSock-nng_recv error: Object closed
+[2024-05-14 18:09:11.035] [debug] [WCF] [rpc_server.cpp::1043::RunServer] Leave RunServer
+[2024-05-14 18:09:12.049] [info] [WCF] [rpc_server.cpp::1071::RpcStopServer] Server stoped.
+[2024-05-14 18:09:48.926] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-05-14 18:09:48.926] [info] [WCF] [rpc_server.cpp::1004::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2024-05-14 18:09:48.931] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:09:48.931] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:09:48.931] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:09:48.932] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:09:48.932] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:09:48.932] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:09:48.932] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x30[Functions_FUNC_ENABLE_RECV_TXT] length: 4
+[2024-05-14 18:09:48.932] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:09:48.933] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x40[Functions_FUNC_DISABLE_RECV_TXT] length: 2
+[2024-05-14 18:09:48.933] [info] [WCF] [rpc_server.cpp::455::PushMessage] MSG Server listening on tcp://0.0.0.0:10087
+[2024-05-14 18:09:48.933] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:09:48.950] [error] [WCF] [rpc_server.cpp::1015::RunServer] cmdSock-nng_recv error: Object closed
+[2024-05-14 18:09:48.950] [debug] [WCF] [rpc_server.cpp::1043::RunServer] Leave RunServer
+[2024-05-14 18:09:49.954] [info] [WCF] [rpc_server.cpp::1071::RpcStopServer] Server stoped.
+[2024-05-14 18:10:38.427] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-05-14 18:10:38.427] [info] [WCF] [rpc_server.cpp::1004::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2024-05-14 18:10:38.432] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:10:38.432] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:10:38.432] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:10:38.432] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:10:38.432] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:10:38.432] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:10:38.450] [error] [WCF] [rpc_server.cpp::1015::RunServer] cmdSock-nng_recv error: Object closed
+[2024-05-14 18:10:38.450] [debug] [WCF] [rpc_server.cpp::1043::RunServer] Leave RunServer
+[2024-05-14 18:10:39.455] [info] [WCF] [rpc_server.cpp::1071::RpcStopServer] Server stoped.
+[2024-05-14 18:11:00.225] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-05-14 18:11:00.225] [info] [WCF] [rpc_server.cpp::1004::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2024-05-14 18:11:00.230] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:11:00.230] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:11:00.230] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:11:00.230] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:11:00.230] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:11:00.230] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:11:00.230] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x30[Functions_FUNC_ENABLE_RECV_TXT] length: 2
+[2024-05-14 18:11:00.231] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:11:00.231] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x40[Functions_FUNC_DISABLE_RECV_TXT] length: 2
+[2024-05-14 18:11:00.231] [info] [WCF] [rpc_server.cpp::455::PushMessage] MSG Server listening on tcp://0.0.0.0:10087
+[2024-05-14 18:11:00.232] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:11:00.249] [error] [WCF] [rpc_server.cpp::1015::RunServer] cmdSock-nng_recv error: Object closed
+[2024-05-14 18:11:00.249] [debug] [WCF] [rpc_server.cpp::1043::RunServer] Leave RunServer
+[2024-05-14 18:11:01.253] [info] [WCF] [rpc_server.cpp::1071::RpcStopServer] Server stoped.
+[2024-05-14 18:12:05.807] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-05-14 18:12:05.807] [info] [WCF] [rpc_server.cpp::1004::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2024-05-14 18:12:05.812] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:12:05.812] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:12:05.812] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:12:05.812] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:12:05.813] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:12:05.813] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:12:05.813] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:12:05.813] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:12:05.813] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x30[Functions_FUNC_ENABLE_RECV_TXT] length: 2
+[2024-05-14 18:12:05.813] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:12:05.814] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x40[Functions_FUNC_DISABLE_RECV_TXT] length: 2
+[2024-05-14 18:12:05.814] [info] [WCF] [rpc_server.cpp::455::PushMessage] MSG Server listening on tcp://0.0.0.0:10087
+[2024-05-14 18:12:05.814] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:12:05.832] [error] [WCF] [rpc_server.cpp::1015::RunServer] cmdSock-nng_recv error: Object closed
+[2024-05-14 18:12:05.832] [debug] [WCF] [rpc_server.cpp::1043::RunServer] Leave RunServer
+[2024-05-14 18:12:06.846] [info] [WCF] [rpc_server.cpp::1071::RpcStopServer] Server stoped.
+[2024-05-14 18:12:47.149] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-05-14 18:12:47.150] [info] [WCF] [rpc_server.cpp::1004::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2024-05-14 18:12:47.155] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:12:47.155] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:12:47.155] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:12:47.155] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:12:47.155] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:12:47.155] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:12:47.155] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:12:47.155] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:12:47.173] [error] [WCF] [rpc_server.cpp::1015::RunServer] cmdSock-nng_recv error: Object closed
+[2024-05-14 18:12:47.173] [debug] [WCF] [rpc_server.cpp::1043::RunServer] Leave RunServer
+[2024-05-14 18:12:48.190] [info] [WCF] [rpc_server.cpp::1071::RpcStopServer] Server stoped.
+[2024-05-14 18:23:02.650] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-05-14 18:23:02.651] [info] [WCF] [rpc_server.cpp::1004::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2024-05-14 18:23:02.655] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:23:02.655] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:23:02.655] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:23:02.655] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:23:02.656] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:23:02.656] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:23:02.656] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:23:02.656] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:23:02.673] [error] [WCF] [rpc_server.cpp::1015::RunServer] cmdSock-nng_recv error: Object closed
+[2024-05-14 18:23:02.673] [debug] [WCF] [rpc_server.cpp::1043::RunServer] Leave RunServer
+[2024-05-14 18:23:03.690] [info] [WCF] [rpc_server.cpp::1071::RpcStopServer] Server stoped.
+[2024-05-14 18:25:37.676] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-05-14 18:25:37.677] [info] [WCF] [rpc_server.cpp::1004::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2024-05-14 18:25:37.681] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:25:37.681] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:25:37.682] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:25:37.682] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:25:37.682] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:25:37.682] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:25:37.682] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:25:37.682] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:25:37.700] [error] [WCF] [rpc_server.cpp::1015::RunServer] cmdSock-nng_recv error: Object closed
+[2024-05-14 18:25:37.700] [debug] [WCF] [rpc_server.cpp::1043::RunServer] Leave RunServer
+[2024-05-14 18:25:38.704] [info] [WCF] [rpc_server.cpp::1071::RpcStopServer] Server stoped.
+[2024-05-14 18:29:13.948] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-05-14 18:29:13.950] [info] [WCF] [rpc_server.cpp::1004::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2024-05-14 18:29:13.956] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:29:13.956] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:29:13.957] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:29:13.957] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:29:13.975] [error] [WCF] [rpc_server.cpp::1015::RunServer] cmdSock-nng_recv error: Object closed
+[2024-05-14 18:29:13.975] [debug] [WCF] [rpc_server.cpp::1043::RunServer] Leave RunServer
+[2024-05-14 18:29:14.986] [info] [WCF] [rpc_server.cpp::1071::RpcStopServer] Server stoped.
+[2024-05-14 18:37:14.431] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-05-14 18:37:14.432] [info] [WCF] [rpc_server.cpp::1004::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2024-05-14 18:37:14.436] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:37:14.436] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:37:14.437] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:37:14.437] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:37:14.456] [error] [WCF] [rpc_server.cpp::1015::RunServer] cmdSock-nng_recv error: Object closed
+[2024-05-14 18:37:14.456] [debug] [WCF] [rpc_server.cpp::1043::RunServer] Leave RunServer
+[2024-05-14 18:37:15.470] [info] [WCF] [rpc_server.cpp::1071::RpcStopServer] Server stoped.
+[2024-05-14 18:38:10.118] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-05-14 18:38:10.119] [info] [WCF] [rpc_server.cpp::1004::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2024-05-14 18:38:10.123] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:38:10.123] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:38:10.123] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:38:10.123] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:38:10.123] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:38:10.123] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:38:10.124] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:38:10.124] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:38:10.124] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:38:10.124] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:38:10.141] [error] [WCF] [rpc_server.cpp::1015::RunServer] cmdSock-nng_recv error: Object closed
+[2024-05-14 18:38:10.141] [debug] [WCF] [rpc_server.cpp::1043::RunServer] Leave RunServer
+[2024-05-14 18:38:11.158] [info] [WCF] [rpc_server.cpp::1071::RpcStopServer] Server stoped.
+[2024-05-14 18:38:59.396] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-05-14 18:38:59.396] [info] [WCF] [rpc_server.cpp::1004::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2024-05-14 18:38:59.401] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:38:59.401] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:38:59.401] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:38:59.401] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:38:59.401] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:38:59.401] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:38:59.401] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:38:59.401] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:38:59.401] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:38:59.401] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:38:59.419] [error] [WCF] [rpc_server.cpp::1015::RunServer] cmdSock-nng_recv error: Object closed
+[2024-05-14 18:38:59.419] [debug] [WCF] [rpc_server.cpp::1043::RunServer] Leave RunServer
+[2024-05-14 18:39:00.422] [info] [WCF] [rpc_server.cpp::1071::RpcStopServer] Server stoped.
+[2024-05-14 18:40:15.025] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-05-14 18:40:15.026] [info] [WCF] [rpc_server.cpp::1004::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2024-05-14 18:40:15.030] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:40:15.030] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:40:15.031] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:40:15.031] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:40:15.031] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:40:15.031] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:40:15.031] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:40:15.031] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:40:15.031] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:40:15.031] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:40:15.049] [error] [WCF] [rpc_server.cpp::1015::RunServer] cmdSock-nng_recv error: Object closed
+[2024-05-14 18:40:15.049] [debug] [WCF] [rpc_server.cpp::1043::RunServer] Leave RunServer
+[2024-05-14 18:40:16.065] [info] [WCF] [rpc_server.cpp::1071::RpcStopServer] Server stoped.
+[2024-05-14 18:41:03.444] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-05-14 18:41:03.445] [info] [WCF] [rpc_server.cpp::1004::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2024-05-14 18:41:03.450] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:41:03.450] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:41:03.450] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:41:03.450] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:41:03.450] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:41:03.450] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:41:03.450] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:41:03.450] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:41:03.451] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:41:03.451] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:42:30.076] [error] [WCF] [rpc_server.cpp::1015::RunServer] cmdSock-nng_recv error: Object closed
+[2024-05-14 18:42:30.076] [debug] [WCF] [rpc_server.cpp::1043::RunServer] Leave RunServer
+[2024-05-14 18:42:31.093] [info] [WCF] [rpc_server.cpp::1071::RpcStopServer] Server stoped.
+[2024-05-14 18:42:33.100] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-05-14 18:42:33.101] [info] [WCF] [rpc_server.cpp::1004::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2024-05-14 18:42:33.105] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:42:33.105] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:42:33.106] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:42:33.106] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:42:33.106] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:42:33.106] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:42:33.106] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:42:33.106] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:42:33.106] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:42:33.106] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:43:18.110] [error] [WCF] [rpc_server.cpp::1015::RunServer] cmdSock-nng_recv error: Object closed
+[2024-05-14 18:43:18.110] [debug] [WCF] [rpc_server.cpp::1043::RunServer] Leave RunServer
+[2024-05-14 18:43:19.112] [info] [WCF] [rpc_server.cpp::1071::RpcStopServer] Server stoped.
+[2024-05-14 18:43:21.084] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-05-14 18:43:21.085] [info] [WCF] [rpc_server.cpp::1004::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2024-05-14 18:43:21.089] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:43:21.089] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:43:21.089] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:43:21.089] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:43:21.089] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:43:21.089] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:43:21.090] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-05-14 18:43:21.090] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:43:21.090] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-05-14 18:43:21.090] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 22
+[2024-05-14 18:43:21.090] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x30[Functions_FUNC_ENABLE_RECV_TXT] length: 4
+[2024-05-14 18:43:21.091] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-05-14 18:43:21.091] [info] [WCF] [rpc_server.cpp::455::PushMessage] MSG Server listening on tcp://0.0.0.0:10087
+[2024-05-14 18:43:22.399] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 第三方开发者
+[2024-05-14 18:43:22.399] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 340
+[2024-05-14 18:43:27.770] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: gbbf
+[2024-05-14 18:43:27.770] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 237
+[2024-05-14 18:43:29.888] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 我去大园路 现在
+[2024-05-14 18:43:29.888] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 320
+[2024-05-14 18:43:46.526] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='2'>
+<username>34504526654@chatroom</username>
+<name>lastMessage</name>
+<arg>{"messageSvrId":"74956156290796174","MsgCreateTime":"1715683408"}</arg>
+</op>
+</msg>
+[2024-05-14 18:43:46.526] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 404
+[2024-05-14 18:43:49.419] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 我加班
+[2024-05-14 18:43:49.420] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 287
+[2024-05-14 18:43:52.443] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 晚点去
+[2024-05-14 18:43:52.443] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 287
+[2024-05-14 18:44:09.453] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 算了
+[2024-05-14 18:44:09.454] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 284
+[2024-05-14 18:44:11.867] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 周末再去吧
+[2024-05-14 18:44:11.868] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 293
+[2024-05-14 18:44:14.487] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='2'>
+<username>wxid_i5l1wxhxvfvz21</username>
+<name>lastMessage</name>
+<arg>{"messageSvrId":"436393239902083560","MsgCreateTime":"1715683336"}</arg>
+</op>
+</msg>
+[2024-05-14 18:44:14.487] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 382
+[2024-05-14 18:44:15.193] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: @176-旗手 快出来掌旗了
+[2024-05-14 18:44:15.193] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 398
+[2024-05-14 18:44:17.322] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 晚一点
+[2024-05-14 18:44:17.322] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 265
+[2024-05-14 18:44:18.411] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 咋啦
+[2024-05-14 18:44:18.412] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 262
+[2024-05-14 18:44:37.499] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 我在考虑要不要做个饭[破涕为笑]
+[2024-05-14 18:44:37.499] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 299
+[2024-05-14 18:44:37.795] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='1'>
+<username>wxid_i5l1wxhxvfvz21</username>
+<name>lastMessage</name>
+<arg>{"messageSvrId":"3431641185264775453","MsgCreateTime":"1715683476"}</arg>
+</op>
+</msg>
+[2024-05-14 18:44:37.795] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 383
+[2024-05-14 18:44:42.335] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 没动力现在
+[2024-05-14 18:44:42.336] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 323
+[2024-05-14 18:44:58.728] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='2'>
+<username>49874758420@chatroom</username>
+<name>lastMessage</name>
+<arg>{"messageSvrId":"2394513172196000798","MsgCreateTime":"1715683481"}</arg>
+</op>
+</msg>
+[2024-05-14 18:44:58.728] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 406
+[2024-05-14 18:45:07.665] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 谁能刺激我一下，让我马上动身
+[2024-05-14 18:45:07.665] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 350
+[2024-05-14 18:45:49.363] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='2'>
+<username>wxid_i5l1wxhxvfvz21</username>
+<name>lastMessage</name>
+<arg>{"messageSvrId":"3431641185264775453","MsgCreateTime":"1715683476"}</arg>
+</op>
+</msg>
+[2024-05-14 18:45:49.363] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 383
+[2024-05-14 18:45:51.673] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 厉害了
+[2024-05-14 18:45:51.673] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 265
+[2024-05-14 18:45:52.323] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg><emoji fromusername="wxid_f1pat9bgopvc22" tousername="49874758420@chatroom" type="1" idbuffer="media:0_0" md5="421bf4280c52b0c70e048dbb66a3edf6" len="89619" productid="com.tencent.xin.emoticon.person.stiker_1708483534c167d9c002c44dc8" androidmd5="421bf4280c52b0c70e048dbb66a3edf6" androidlen="89619" s60v3md5="421bf4280c52b0c70e048dbb66a3edf6" s60v3len="89619" s60v5md5="421bf4280c52b0c70e048dbb66a3edf6" s60v5len="89619" cdnurl="http://wxapp.tc.qq.com/275/20304/stodownload?m=421bf4280c52b0c70e048dbb66a3edf6&amp;filekey=30350201010421301f02020113040253480410421bf4280c52b0c70e048dbb66a3edf60203015e13040d00000004627466730000000132&amp;hy=SH&amp;storeid=265dea0eb00040f3cb438ba6b0000011300004f50534817afc1715662ede38&amp;bizid=1023" designerid="" thumburl="http://wxapp.tc.qq.com/275/20304/stodownload?m=b63a352824377410950c8c876ffa21e9&amp;filekey=30340201010420301e02020113040253480410b63a352824377410950c8c876ffa21e902027a0f040d00000004627466730000000132&amp;hy=SH&amp;storeid=265dea0eb00027d6ab438ba6b0000011300004f5053482f8851b15696f6761&amp;bizid=1023" encrypturl="http://wxapp.tc.qq.com/262/20304/stodownload?m=5b767f0af59fa3bedf4e948655490c85&amp;filekey=30350201010421301f020201060402534804105b767f0af59fa3bedf4e948655490c850203015e20040d00000004627466730000000132&amp;hy=SH&amp;storeid=265dea0eb000bfb76b438ba6b0000010600004f5053481d182bc1e6b268517&amp;bizid=1023" aeskey="07414595cda410819d5973e3c1f1f0d3" externurl="" externmd5="" width="240" height="240" tpurl="" tpauthkey="" attachedtext="" attachedtextcolor="" lensid="" emojiattr="" linkid="" desc="ChEKB2RlZmF1bHQSBueWsuaDqw=="></emoji></msg>
+[2024-05-14 18:45:52.323] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 1911
+[2024-05-14 18:45:58.293] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <sysmsg type="revokemsg"><revokemsg><session>wxid_i5l1wxhxvfvz21</session><msgid>1635173072</msgid><newmsgid>8707335874825553906</newmsgid><replacemsg><![CDATA[你撤回了一条消息]]></replacemsg></revokemsg></sysmsg>
+[2024-05-14 18:45:58.293] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 390
+[2024-05-14 18:46:06.174] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 那天在照片上看到你，你又胖了
+[2024-05-14 18:46:06.174] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 350
+[2024-05-14 18:46:09.479] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='2'>
+<username>49874758420@chatroom</username>
+<name>lastMessage</name>
+<arg>{"messageSvrId":"584360549882037246","MsgCreateTime":"1715683564"}</arg>
+</op>
+</msg>
+[2024-05-14 18:46:09.479] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 405
+[2024-05-14 18:46:17.810] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 我周末我回家
+[2024-05-14 18:46:17.810] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 316
+[2024-05-14 18:46:22.692] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 镇龙
+[2024-05-14 18:46:22.692] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 304
+[2024-05-14 18:46:26.242] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='2'>
+<username>34504526654@chatroom</username>
+<name>lastMessage</name>
+<arg>{"messageSvrId":"7843434306804967963","MsgCreateTime":"1715683581"}</arg>
+</op>
+</msg>
+[2024-05-14 18:46:26.242] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 406
+[2024-05-14 18:46:26.528] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg><emoji fromusername="wangyu5262" tousername="34504526654@chatroom" type="2" idbuffer="media:0_0" md5="43cc3edb921f9f0afa05e5c7c259dd90" len="15773" productid="com.tencent.xin.emoticon.person.stiker_14887904247631913263a79d92" androidmd5="43cc3edb921f9f0afa05e5c7c259dd90" androidlen="15773" s60v3md5="43cc3edb921f9f0afa05e5c7c259dd90" s60v3len="15773" s60v5md5="43cc3edb921f9f0afa05e5c7c259dd90" s60v5len="15773" cdnurl="http://wxapp.tc.qq.com/275/20304/stodownload?m=43cc3edb921f9f0afa05e5c7c259dd90&amp;filekey=30340201010420301e0202011304025348041043cc3edb921f9f0afa05e5c7c259dd9002023d9d040d00000004627466730000000132&amp;hy=SH&amp;storeid=264795804000c8d94000000000000011300004f5053482fa6cb40b6fc720eb&amp;bizid=1023" designerid="" thumburl="http://wxapp.tc.qq.com/275/20304/stodownload?m=0437dedbedb1e207b99c860b302954e9&amp;filekey=30340201010420301e020201130402534804100437dedbedb1e207b99c860b302954e9020236c1040d00000004627466730000000132&amp;hy=SH&amp;storeid=264795804000e214e000000000000011300004f5053480c56db40b712dda3e&amp;bizid=1023" encrypturl="http://wxapp.tc.qq.com/262/20304/stodownload?m=62ee1933de4f182c7734ea1cf5365676&amp;filekey=30340201010420301e0202010604025348041062ee1933de4f182c7734ea1cf536567602023da0040d00000004627466730000000132&amp;hy=SH&amp;storeid=2630cdedb00057226000000000000010600004f50534826fd2a00b79023f77&amp;bizid=1023" aeskey="550a2a8b2833f7fca4c1b767a05dac40" externurl="http://wxapp.tc.qq.com/262/20304/stodownload?m=1ebea4871cf4348455918e1fd92dfff6&amp;filekey=30340201010420301e020201060402534804101ebea4871cf4348455918e1fd92dfff6020219f0040d00000004627466730000000132&amp;hy=SH&amp;storeid=2630cdedb0007e822000000000000010600004f50534829165b40b79219b75&amp;bizid=1023" externmd5="51ea5baa6bee4df67a7f3f3c3d7c8ac7" width="240" height="240" tpurl="" tpauthkey="" attachedtext="" attachedtextcolor="" lensid="" emojiattr="" linkid="" desc="Cg8KBXpoX2NuEgbmjYLohLgKCQoFemhfdHcSAAoLCgdkZWZhdWx0EgA="></emoji></msg>
+[2024-05-14 18:46:26.529] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 2248
+[2024-05-14 18:46:26.691] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='1'>
+<username>34504526654@chatroom</username>
+<name>lastMessage</name>
+<arg>{"messageSvrId":"5969341463046450663","MsgCreateTime":"1715683585"}</arg>
+</op>
+</msg>
+[2024-05-14 18:46:26.691] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 406
+[2024-05-14 18:46:39.254] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <?xml version="1.0"?>
+<msg>
+	<img aeskey="535805df19978f1e64ac82027c6f3cd3" encryver="1" cdnthumbaeskey="535805df19978f1e64ac82027c6f3cd3" cdnthumburl="3057020100044b30490201000204ee9b4d9002032f5dc902042bc7e17c02046643410e042437376263633137302d653838332d346233622d383661662d366337396561376333626233020405250a020201000405004c505500" cdnthumblength="3489" cdnthumbheight="120" cdnthumbwidth="67" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="3057020100044b30490201000204ee9b4d9002032f5dc902042bc7e17c02046643410e042437376263633137302d653838332d346233622d383661662d366337396561376333626233020405250a020201000405004c505500" length="154224" md5="722c6df8bdc5a89cca25ae777208218d" hevc_mid_size="154224" />
+	<platform_signature></platform_signature>
+	<imgdatahash></imgdatahash>
+	<ImgSourceInfo>
+		<ImgSourceUrl></ImgSourceUrl>
+		<BizType>0</BizType>
+	</ImgSourceInfo>
+</msg>
+
+[2024-05-14 18:46:39.254] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 1645
+[2024-05-14 18:46:39.298] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='1'>
+<username>34504526654@chatroom</username>
+<name>lastMessage</name>
+<arg>{"messageSvrId":"0","MsgCreateTime":"1715683597"}</arg>
+</op>
+</msg>
+[2024-05-14 18:46:39.299] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 388
+[2024-05-14 18:46:48.641] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg><emoji fromusername="wxid_tcgo7nw5jtio51" tousername="39273363762@chatroom" type="2" idbuffer="media:0_0" md5="80dd6c22e61ae0b793a3ba1b5e5edef2" len="1045974" productid="" androidmd5="80dd6c22e61ae0b793a3ba1b5e5edef2" androidlen="1045974" s60v3md5="80dd6c22e61ae0b793a3ba1b5e5edef2" s60v3len="1045974" s60v5md5="80dd6c22e61ae0b793a3ba1b5e5edef2" s60v5len="1045974" cdnurl="http://wxapp.tc.qq.com/262/20304/stodownload?m=80dd6c22e61ae0b793a3ba1b5e5edef2&amp;filekey=30350201010421301f0202010604025348041080dd6c22e61ae0b793a3ba1b5e5edef202030ff5d6040d00000004627466730000000132&amp;hy=SH&amp;storeid=265d4629e0007b4670b82538f0000010600004f5053481963e031567cf0176&amp;bizid=1023" designerid="" thumburl="" encrypturl="http://wxapp.tc.qq.com/262/20304/stodownload?m=6fd130eeac900bcc8a238d3e1e67a4d2&amp;filekey=30350201010421301f020201060402534804106fd130eeac900bcc8a238d3e1e67a4d202030ff5e0040d00000004627466730000000132&amp;hy=SH&amp;storeid=265d4629e000b516a0b82538f0000010600004f505348200461b15665ce87a&amp;bizid=1023" aeskey="38c7e7de852705f0e4da88e16b3729b2" externurl="http://wxapp.tc.qq.com/262/20304/stodownload?m=866b7fb944f50c4fdfb19a51674c5532&amp;filekey=30350201010421301f02020106040253480410866b7fb944f50c4fdfb19a51674c55320203053b40040d00000004627466730000000132&amp;hy=SH&amp;storeid=265d462c80009790d0b82538f0000010600004f5053482f57d0d1567c6d8d1&amp;bizid=1023" externmd5="f398dbcb3600cfc9ca518b6223b5fa2e" width="240" height="240" tpurl="" tpauthkey="" attachedtext="" attachedtextcolor="" lensid="" emojiattr="" linkid="" desc=""></emoji></msg>
+[2024-05-14 18:46:48.641] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 1861
+[2024-05-14 18:46:50.956] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 抓到了微信的聊天记录
+[2024-05-14 18:46:50.957] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 308
+[2024-05-14 18:46:52.929] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: [呲牙]
+[2024-05-14 18:46:52.930] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 286
+[2024-05-14 18:47:37.467] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 老北鼻建
+[2024-05-14 18:47:37.467] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 315
+[2024-05-14 18:47:40.803] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 啊
+[2024-05-14 18:47:40.803] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 306
+[2024-05-14 18:47:55.907] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 人真的是要犯错才会成长
+[2024-05-14 18:47:55.908] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 336
+[2024-05-14 18:48:05.546] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg><emoji fromusername = "wxid_der3fm9b44io21" tousername = "wxid_91mel5i1nx6l1" type="2" idbuffer="media:0_0" md5="c75d0752d90e429a46ff86a3ee8e9b6a" len = "67134" productid="" androidmd5="c75d0752d90e429a46ff86a3ee8e9b6a" androidlen="67134" s60v3md5 = "c75d0752d90e429a46ff86a3ee8e9b6a" s60v3len="67134" s60v5md5 = "c75d0752d90e429a46ff86a3ee8e9b6a" s60v5len="67134" cdnurl = "http://vweixinf.tc.qq.com/110/20401/stodownload?m=c75d0752d90e429a46ff86a3ee8e9b6a&amp;filekey=30440201010430302e02016e0402535a04206337356430373532643930653432396134366666383661336565386539623661020301063e040d00000004627466730000000132&amp;hy=SZ&amp;storeid=265a116e90005688fa2a738a90000006e01004fb1535a240b2181566304f81&amp;ef=1&amp;bizid=1022" designerid = "" thumburl = "" encrypturl = "http://vweixinf.tc.qq.com/110/20402/stodownload?m=edc26587154caa731b6c002e7fa4dede&amp;filekey=30440201010430302e02016e0402535a042065646332363538373135346361613733316236633030326537666134646564650203010640040d00000004627466730000000132&amp;hy=SZ&amp;storeid=265a116e900063ea5a2a738a90000006e02004fb2535a240b2181566304f88&amp;ef=2&amp;bizid=1022" aeskey= "8ad7873e493243d1b7cb1d9b97e0edc8" externurl = "http://vweixinf.tc.qq.com/110/20403/stodownload?m=245c83be3aff46a8982613b88a5ebfef&amp;filekey=3043020101042f302d02016e0402535a04203234356338336265336166663436613839383236313362383861356562666566020210f0040d00000004627466730000000132&amp;hy=SZ&amp;storeid=265a116e90006ef4fa2a738a90000006e03004fb3535a240b2181566304f8f&amp;ef=3&amp;bizid=1022" externmd5 = "6383f4e66791fccec75451827a3e708b" width= "234" height= "240" tpurl= "" tpauthkey= "" attachedtext= "" attachedtextcolor= "" lensid= "" emojiattr= "" linkid= "" desc= "" ></emoji> </msg>
+[2024-05-14 18:48:05.546] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 2069
+[2024-05-14 18:48:12.713] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 第三方开发者做的，群晖官方都10多年前的了，风格了
+[2024-05-14 18:48:12.714] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 395
+[2024-05-14 18:48:17.758] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='2'>
+<username>wxid_der3fm9b44io21</username>
+<name>lastMessage</name>
+<arg>{"messageSvrId":"1853859127448293994","MsgCreateTime":"1715683684"}</arg>
+</op>
+</msg>
+[2024-05-14 18:48:17.758] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 383
+[2024-05-14 18:48:21.342] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <sysmsg type="revokemsg"><revokemsg><session>17967267509@chatroom</session><msgid>1204456663</msgid><newmsgid>8027895228048362637</newmsgid><replacemsg><![CDATA["辛老师" 撤回了一条消息]]></replacemsg><announcement_id><![CDATA[]]></announcement_id></revokemsg></sysmsg>
+[2024-05-14 18:48:21.342] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 465
+[2024-05-14 18:48:22.412] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 第三方开发者做的，群晖官方都10多年前的风格了
+[2024-05-14 18:48:22.412] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 438
+[2024-05-14 18:48:40.099] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 那是日渐干瘪钱包的恩赐，是我的福泽，这是我应得的
+[2024-05-14 18:48:40.099] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 380
+[2024-05-14 18:48:42.572] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 下次注意就好了
+[2024-05-14 18:48:42.572] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 277
+[2024-05-14 18:48:47.428] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='2'>
+<username>34504526654@chatroom</username>
+<name>lastMessage</name>
+<arg>{"messageSvrId":"3204043542752970812","MsgCreateTime":"1715683611"}</arg>
+</op>
+</msg>
+[2024-05-14 18:48:47.428] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 406
+[2024-05-14 18:48:49.100] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='2'>
+<username>34504526654@chatroom</username>
+<name>lastMessage</name>
+<arg>{"messageSvrId":"3204043542752970812","MsgCreateTime":"1715683611"}</arg>
+</op>
+</msg>
+[2024-05-14 18:48:49.100] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 406
+[2024-05-14 18:48:52.358] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='1'>
+<username>34504526654@chatroom</username>
+<name>lastMessage</name>
+<arg>{"messageSvrId":"3204043542752970812","MsgCreateTime":"1715683611"}</arg>
+</op>
+</msg>
+[2024-05-14 18:48:52.358] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 406
+[2024-05-14 18:48:59.162] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='2'>
+<username>39040199942@chatroom</username>
+<name>lastMessage</name>
+<arg>{"messageSvrId":"307919411798719826","MsgCreateTime":"1715681381"}</arg>
+</op>
+</msg>
+[2024-05-14 18:48:59.162] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 405
+[2024-05-14 18:48:59.645] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='1'>
+<username>39040199942@chatroom</username>
+<name>lastMessage</name>
+<arg>{"messageSvrId":"307919411798719826","MsgCreateTime":"1715681381"}</arg>
+</op>
+</msg>
+[2024-05-14 18:48:59.645] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 405
+[2024-05-14 18:49:29.349] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 跑起来了，但是LLM有时候返回MD文档，要做一下处理才能返回，要不然看着难受
+[2024-05-14 18:49:29.350] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 382
+[2024-05-14 18:50:38.555] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <?xml version="1.0"?>
+<msg>
+	<videomsg aeskey="64f19955aed62bd84737bb34620618cc" cdnvideourl="3057020100044b3049020100020449788d5502032df85f0204469730700204664341fa042438383363306365372d303266652d343733632d396539322d6537623962303637353963320204052400040201000405004c4c6f00" cdnthumbaeskey="64f19955aed62bd84737bb34620618cc" cdnthumburl="3057020100044b3049020100020449788d5502032df85f0204469730700204664341fa042438383363306365372d303266652d343733632d396539322d6537623962303637353963320204052400040201000405004c4c6f00" length="3100014" playlength="21" cdnthumblength="4189" cdnthumbwidth="224" cdnthumbheight="398" fromusername="wxid_woegtijyeku022" md5="5851f054a344e59ceaf68f30639e7fd6" newmd5="2658c065df08c4cfc31bf5e7394b16fc" isplaceholder="0" rawmd5="" rawlength="0" cdnrawvideourl="" cdnrawvideoaeskey="" overwritenewmsgid="0" originsourcemd5="" isad="0" />
+</msg>
+
+[2024-05-14 18:50:38.556] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 1601
+[2024-05-14 18:50:42.807] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='11'>
+<name>HandOffMaster</name>
+<arg>
+<handofflist opcode="1" seq="115214" devicevirtualid="ea9f8a12c26ff996e32bbe90eebc5a8b" networkstatus="net_type:not-wifi" availablecount="1000" currentfloatwindowcount="2" currenthandoffcount="1"><handoff id="webpage_737376641284" createtime="1715683841284" type="2" to="" from=""><handofftype><![CDATA[1]]></handofftype><title><![CDATA[超简单解决：你的应用版本过低，请升级至最新版本后再登录]]></title><url><![CDATA[https://mp.weixin.qq.com/s?__biz=MzI0MjI1OTk0OQ==&mid=2247488041&idx=1&sn=3ba7f3a08b60534ed433b8ba2e5e1b96&chksm=e97e50abde09d9bdbb6d40f3851b6b1c55e7adc919ef12eb52703cb4d708be42558bd20df85f&mpshare=1&scene=1&srcid=0510TAULaOyE4OPF5GobbTqi&sharer_shareinfo=18870f8c1308b152d65b9475e9e1f7ec&sharer_shareinfo_first=6dc170e7b72de4d8387817e614ff57d8&from=groupmessage&isappinstalled=0&clicktime=1715683841&enterid=1715683841#rd]]></url></handoff></handofflist>
+</arg>
+</op>
+</msg>
+[2024-05-14 18:50:42.807] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 1178
+[2024-05-14 18:50:43.375] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='11'>
+<name>HandOffMaster</name>
+<arg>
+<handofflist opcode="3" seq="115215" devicevirtualid="ea9f8a12c26ff996e32bbe90eebc5a8b" networkstatus="net_type:not-wifi" availablecount="1000" currentfloatwindowcount="2" currenthandoffcount="1"><handoff id="webpage_737376641284" createtime="1715683841284" type="2" to="" from=""><handofftype><![CDATA[1]]></handofftype><title><![CDATA[超简单解决：你的应用版本过低，请升级至最新版本后再登录]]></title><url><![CDATA[https://mp.weixin.qq.com/s/g9AjM3A04sAylP-Q-17fAg]]></url><icon><![CDATA[http://wx.qlogo.cn/mmhead/Q3auHgzwzM5DkTwuzlxr2Pv8bLlECGicpp9qpeibbMbmP3jxgQ2ZSibMg/132]]></icon></handoff></handofflist>
+</arg>
+</op>
+</msg>
+[2024-05-14 18:50:43.375] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 917
+[2024-05-14 18:50:53.957] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='11'>
+<name>HandOffMaster</name>
+<arg>
+<handofflist opcode="3" seq="115216" devicevirtualid="ea9f8a12c26ff996e32bbe90eebc5a8b" networkstatus="net_type:not-wifi" availablecount="1000" currentfloatwindowcount="2" currenthandoffcount="1"><handoff id="webpage_737376641284" createtime="1715683841284" type="2" to="" from=""><handofftype><![CDATA[1]]></handofftype><title><![CDATA[超简单解决：你的应用版本过低，请升级至最新版本后再登录]]></title><url><![CDATA[https://mp.weixin.qq.com/s/g9AjM3A04sAylP-Q-17fAg]]></url><icon><![CDATA[http://wx.qlogo.cn/mmhead/Q3auHgzwzM5DkTwuzlxr2Pv8bLlECGicpp9qpeibbMbmP3jxgQ2ZSibMg/132]]></icon></handoff></handofflist>
+</arg>
+</op>
+</msg>
+[2024-05-14 18:50:53.957] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 917
+[2024-05-14 18:51:07.131] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 呐，本群第一帅，到了现场能看活的
+[2024-05-14 18:51:07.132] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 356
+[2024-05-14 18:51:12.819] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg><emoji fromusername="wxid_zzjy3kw422cz22" tousername="39273363762@chatroom" type="2" idbuffer="media:0_0" md5="1ee00ed66a8c965a581e3991f46222ff" len="40089" productid="" androidmd5="1ee00ed66a8c965a581e3991f46222ff" androidlen="40089" s60v3md5="1ee00ed66a8c965a581e3991f46222ff" s60v3len="40089" s60v5md5="1ee00ed66a8c965a581e3991f46222ff" s60v5len="40089" cdnurl="http://wxapp.tc.qq.com/262/20304/stodownload?m=1ee00ed66a8c965a581e3991f46222ff&amp;filekey=30350201010421301f020201060402534804101ee00ed66a8c965a581e3991f46222ff0203009c99040d00000004627466730000000132&amp;hy=SH&amp;storeid=26306d373000aeed7000000000000010600004f5053480f267b40b68593f87&amp;bizid=1023" designerid="" thumburl="" encrypturl="http://wxapp.tc.qq.com/262/20304/stodownload?m=f1274cde3b18cfff3e6e116e30664d5a&amp;filekey=30350201010421301f020201060402535a0410f1274cde3b18cfff3e6e116e30664d5a0203009ca0040d00000004627466730000000132&amp;hy=SZ&amp;storeid=26306d373000e1273000000000000010600004f50535a11b27880963eb982c&amp;bizid=1023" aeskey="d351ec9cec9008eeeb4b13d1795788c4" externurl="http://wxapp.tc.qq.com/262/20304/stodownload?m=55d6181544fc7b1c9558f6aa6b49b637&amp;filekey=30340201010420301e0202010604025348041055d6181544fc7b1c9558f6aa6b49b63702025180040d00000004627466730000000132&amp;hy=SH&amp;storeid=26306d3740001825d000000000000010600004f5053482fa67b40b6868a5b9&amp;bizid=1023" externmd5="80814e7a9fdcd3edf3993fa26fd093a8" width="720" height="720" tpurl="" tpauthkey="" attachedtext="" attachedtextcolor="" lensid="" emojiattr="" linkid="" desc=""></emoji></msg>
+[2024-05-14 18:51:12.820] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 1851
+[2024-05-14 18:51:18.050] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 胆子大点还能摸
+[2024-05-14 18:51:18.051] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 329
+[2024-05-14 18:52:02.898] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <?xml version="1.0"?>
+<msg>
+	<img aeskey="7bd0a11d9359b48d7421be46772e0b8e" encryver="1" cdnthumbaeskey="7bd0a11d9359b48d7421be46772e0b8e" cdnthumburl="3057020100044b30490201000204fe78b5f202032f57260204d7bcfd76020466434250042465336661333762342d326131322d346137322d613166342d616536653035396539316264020405250a020201000405004c511e00" cdnthumblength="4159" cdnthumbheight="144" cdnthumbwidth="67" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="3057020100044b30490201000204fe78b5f202032f57260204d7bcfd76020466434250042465336661333762342d326131322d346137322d613166342d616536653035396539316264020405250a020201000405004c511e00" length="82427" md5="cbe4e6da0e14becb3d911800e69f74ca" />
+	<platform_signature></platform_signature>
+	<imgdatahash></imgdatahash>
+	<ImgSourceInfo>
+		<ImgSourceUrl></ImgSourceUrl>
+		<BizType>0</BizType>
+	</ImgSourceInfo>
+</msg>
+
+[2024-05-14 18:52:02.898] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 1704
+[2024-05-14 18:52:07.141] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='11'>
+<name>HandOffMaster</name>
+<arg>
+<handofflist opcode="2" seq="115217" devicevirtualid="ea9f8a12c26ff996e32bbe90eebc5a8b" networkstatus="net_type:not-wifi" availablecount="1000" currentfloatwindowcount="2" currenthandoffcount="0"><handoff id="webpage_737376641284" createtime="1715683841284" type="2" to="" from=""><handofftype><![CDATA[1]]></handofftype><title><![CDATA[超简单解决：你的应用版本过低，请升级至最新版本后再登录]]></title><url><![CDATA[https://mp.weixin.qq.com/s/g9AjM3A04sAylP-Q-17fAg]]></url><icon><![CDATA[http://wx.qlogo.cn/mmhead/Q3auHgzwzM5DkTwuzlxr2Pv8bLlECGicpp9qpeibbMbmP3jxgQ2ZSibMg/132]]></icon></handoff></handofflist>
+
+
+<handofflist opcode="1" seq="115217" devicevirtualid="ea9f8a12c26ff996e32bbe90eebc5a8b" networkstatus="net_type:not-wifi" availablecount="1000" currentfloatwindowcount="2" currenthandoffcount="1"><handoff id="webpage_737376725622" createtime="1715683925622" type="2" to="" from=""><handofftype><![CDATA[1]]></handofftype><title><![CDATA[超简单解决：你的应用版本过低，请升级至最新版本后再登录]]></title><url><![CDATA[https://mp.weixin.qq.com/mp/author?action=show&__biz=MzI0MjI1OTk0OQ==&appmsgid=2247488041&timestamp=1715683842&author_id=ofMoI47xf4XZ6ZrhU0gtqi3bb6A8&idx=1&scene=142&rscene=128&from_scene=1&from_subscene=&from_enterid=1715683841&from_sessionid=undefined&is_fans=undefined&is_paidarticle=0&author_from_scene=75&rewardsn=f97de9a9c7cd3a13a3fd&__tc=1#wechat_redirect]]></url></handoff></handofflist>
+</arg>
+</op>
+</msg>
+[2024-05-14 18:52:07.141] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 1758
+[2024-05-14 18:52:08.532] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='11'>
+<name>HandOffMaster</name>
+<arg>
+<handofflist opcode="3" seq="115218" devicevirtualid="ea9f8a12c26ff996e32bbe90eebc5a8b" networkstatus="net_type:not-wifi" availablecount="1000" currentfloatwindowcount="2" currenthandoffcount="1"><handoff id="webpage_737376725622" createtime="1715683925622" type="2" to="" from=""><handofftype><![CDATA[1]]></handofftype><title><![CDATA[作者：查克]]></title><url><![CDATA[https://mp.weixin.qq.com/mp/author?action=show&__biz=MzI0MjI1OTk0OQ==&appmsgid=2247488041&timestamp=1715683842&author_id=ofMoI47xf4XZ6ZrhU0gtqi3bb6A8&idx=1&scene=142&rscene=128&from_scene=1&from_subscene=&from_enterid=1715683841&from_sessionid=undefined&is_fans=undefined&is_paidarticle=0&author_from_scene=75&rewardsn=f97de9a9c7cd3a13a3fd&__tc=1#wechat_redirect]]></url><icon><![CDATA[https://mmbiz.qlogo.cn/mmbiz_jpg/ia2wzuXm7uIHhg3nWJWQ9xE7m0Q3iaNbzXtmHJHicvrzt9U1bwzib2gdqC4A8NqH3sgibfqIRBHsOiayrCA4Gku2LRpQ/0?wx_fmt=jpeg]]></icon></handoff></handofflist>
+
+
+<handofflist opcode="2" seq="115218" devicevirtualid="ea9f8a12c26ff996e32bbe90eebc5a8b" networkstatus="net_type:not-wifi" availablecount="1000" currentfloatwindowcount="2" currenthandoffcount="0"><handoff id="webpage_737376725622" createtime="1715683925622" type="2" to="" from=""><handofftype><![CDATA[1]]></handofftype><title><![CDATA[作者：查克]]></title><url><![CDATA[https://mp.weixin.qq.com/mp/author?action=show&__biz=MzI0MjI1OTk0OQ==&appmsgid=2247488041&timestamp=1715683842&author_id=ofMoI47xf4XZ6ZrhU0gtqi3bb6A8&idx=1&scene=142&rscene=128&from_scene=1&from_subscene=&from_enterid=1715683841&from_sessionid=undefined&is_fans=undefined&is_paidarticle=0&author_from_scene=75&rewardsn=f97de9a9c7cd3a13a3fd&__tc=1#wechat_redirect]]></url><icon><![CDATA[https://mmbiz.qlogo.cn/mmbiz_jpg/ia2wzuXm7uIHhg3nWJWQ9xE7m0Q3iaNbzXtmHJHicvrzt9U1bwzib2gdqC4A8NqH3sgibfqIRBHsOiayrCA4Gku2LRpQ/0?wx_fmt=jpeg]]></icon></handoff></handofflist>
+
+
+<handofflist opcode="1" seq="115218" devicevirtualid="ea9f8a12c26ff996e32bbe90eebc5a8b" networkstatus="net_type:not-wifi" availablecount="1000" currentfloatwindowcount="2" currenthandoffcount="1"><handoff id="webpage_737376727117" createtime="1715683927117" type="2" to="" from=""><handofftype><![CDATA[1]]></handofftype><title><![CDATA[超简单解决：你的应用版本过低，请升级至最新版本后再登录]]></title><url><![CDATA[https://mp.weixin.qq.com/s?__biz=MzI0MjI1OTk0OQ==&mid=2247488041&idx=1&sn=3ba7f3a08b60534ed433b8ba2e5e1b96&chksm=e97e50abde09d9bdbb6d40f3851b6b1c55e7adc919ef12eb52703cb4d708be42558bd20df85f&mpshare=1&scene=1&srcid=0510TAULaOyE4OPF5GobbTqi&sharer_shareinfo=18870f8c1308b152d65b9475e9e1f7ec&sharer_shareinfo_first=6dc170e7b72de4d8387817e614ff57d8&from=groupmessage&isappinstalled=0&clicktime=1715683841&enterid=1715683841&ascene=1&devicetype=iOS17.4.1&version=18002f2c&nettype=3G+&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&countrycode=CN&fontScale=100&exportkey=n_ChQIAhIQRpZsW7vusoo4sF9dzW%2FdQBLuAQIE97dBBAEAAAAAAJ9fLk9nYjsAAAAOpnltbLcz9gKNyK89dVj0pykjlFDuoFxhzRTjH9etiTZDWvwnLdJ4Lji3GK3%2Fu2EdN0UDN7hA64rNsFO%2B4gIYpp4baKm69ycbvZkxJPhSX5hqIS4cUVnnc5mrXvDUPxKJmbiq750fSq64JIedp5JIGBogEA42g0HSOTl8q5Dzm7WjkZUI4KxgXLE7AfueIfCpL7z9qRzCo3cSpaisdB80G8qt811lujUkrsCSW2XgrNFM432C6KoJDj6ERmo7TNy%2FsGsdtSD7A1LCYuR5ozivCxPSfM48LY0%3D&pass_ticket=uxB2cE32blurQPuELUTbnCv%2BfFqrKYQ2%2Fg1y2qajJaUF0x%2BnQTUVktuDxT%2BdW55wlhEgSoCb0UB7hqHPipSDgA%3D%3D&wx_header=3]]></url><icon><![CDATA[http://wx.qlogo.cn/mmhead/Q3auHgzwzM5DkTwuzlxr2Pv8bLlECGicpp9qpeibbMbmP3jxgQ2ZSibMg/132]]></icon></handoff></handofflist>
+</arg>
+</op>
+</msg>
+[2024-05-14 18:52:08.533] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 3791
+[2024-05-14 18:52:08.723] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='11'>
+<name>HandOffMaster</name>
+<arg>
+<handofflist opcode="3" seq="115219" devicevirtualid="ea9f8a12c26ff996e32bbe90eebc5a8b" networkstatus="net_type:not-wifi" availablecount="1000" currentfloatwindowcount="2" currenthandoffcount="1"><handoff id="webpage_737376727117" createtime="1715683927117" type="2" to="" from=""><handofftype><![CDATA[1]]></handofftype><title><![CDATA[超简单解决：你的应用版本过低，请升级至最新版本后再登录]]></title><url><![CDATA[https://mp.weixin.qq.com/s/g9AjM3A04sAylP-Q-17fAg]]></url><icon><![CDATA[http://wx.qlogo.cn/mmhead/Q3auHgzwzM5DkTwuzlxr2Pv8bLlECGicpp9qpeibbMbmP3jxgQ2ZSibMg/132]]></icon></handoff></handofflist>
+
+
+<handofflist opcode="3" seq="115219" devicevirtualid="ea9f8a12c26ff996e32bbe90eebc5a8b" networkstatus="net_type:not-wifi" availablecount="1000" currentfloatwindowcount="2" currenthandoffcount="1"><handoff id="webpage_737376727117" createtime="1715683927117" type="2" to="" from=""><handofftype><![CDATA[1]]></handofftype><title><![CDATA[超简单解决：你的应用版本过低，请升级至最新版本后再登录]]></title><url><![CDATA[https://mp.weixin.qq.com/s/g9AjM3A04sAylP-Q-17fAg]]></url><icon><![CDATA[http://wx.qlogo.cn/mmhead/Q3auHgzwzM5DkTwuzlxr2Pv8bLlECGicpp9qpeibbMbmP3jxgQ2ZSibMg/132]]></icon></handoff></handofflist>
+</arg>
+</op>
+</msg>
+[2024-05-14 18:52:08.723] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 1557
+[2024-05-14 18:52:21.414] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='11'>
+<name>HandOffMaster</name>
+<arg>
+<handofflist opcode="2" seq="115220" devicevirtualid="ea9f8a12c26ff996e32bbe90eebc5a8b" networkstatus="net_type:not-wifi" availablecount="1000" currentfloatwindowcount="2" currenthandoffcount="0"><handoff id="webpage_737376727117" createtime="1715683927117" type="2" to="" from=""><handofftype><![CDATA[1]]></handofftype><title><![CDATA[超简单解决：你的应用版本过低，请升级至最新版本后再登录]]></title><url><![CDATA[https://mp.weixin.qq.com/s/g9AjM3A04sAylP-Q-17fAg]]></url><icon><![CDATA[http://wx.qlogo.cn/mmhead/Q3auHgzwzM5DkTwuzlxr2Pv8bLlECGicpp9qpeibbMbmP3jxgQ2ZSibMg/132]]></icon></handoff></handofflist>
+</arg>
+</op>
+</msg>
+[2024-05-14 18:52:21.414] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 917
+[2024-05-14 18:54:50.740] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <sysmsg type="gamecenter"><gamecenter msgtype="100" newmsgtype="100"><msg_id>wonderful_video_player_14865|1715611799|-180313296</msg_id><appid>wx95a3a4d7c627e07d</appid><push_id></push_id><weight>73</weight><time_info><create_time>1715652088</create_time><expire_time>259200</expire_time></time_info><entrance><entrance_red_dot_type>4</entrance_red_dot_type><entrance_icon_url>http://wx.qlogo.cn/mmhead/QzPtZqIzA0nCnZ7sPuKYSibhHz5QLXUy6CegBNhJiayl6QibDWXknEV8g/132</entrance_icon_url><entrance_text>朋友最新默契时刻</entrance_text><entrance_icon_rounded_corner>1</entrance_icon_rounded_corner><entrance_show_control><basic_type>10000</basic_type><ignore_local_control>0</ignore_local_control><reappearable>0</reappearable></entrance_show_control></entrance><tab_info><default_key if_has_native_banner="">home</default_key><red_dot><key></key></red_dot></tab_info><extra_data><preload><![CDATA[{&quot;wonderful_video_feed&quot;:{&quot;type&quot;:23,&quot;title&quot;:&quot;默契时刻&quot;,&quot;content&quot;:&quot;来回顾一下我们的精彩配合。&quot;,&quot;pic_url_list&quot;:[],&quot;lazy_pic_url_list&quot;:[],&quot;image_list&quot;:[],&quot;create_time&quot;:1715651485,&quot;id&quot;:362670585,&quot;feed_id&quot;:&quot;10690536270329&quot;,&quot;content_id&quot;:&quot;U7bDZBzPmeM_8VjpNFYiiw&quot;,&quot;extern_info&quot;:&quot;{\&quot;ReasonID\&quot;:23,\&quot;account_info\&quot;:[6,0],\&quot;content_source_type\&quot;:29,\&quot;labelid_rela\&quot;:1,\&quot;ContentType\&quot;:60,\&quot;distype\&quot;:[],\&quot;GiftType\&quot;:2,\&quot;video_type\&quot;:1,\&quot;area_source\&quot;:0,\&quot;openid_list\&quot;:[]}&quot;,&quot;user_info&quot;:{&quot;nick_name&quot;:&quot;&quot;,&quot;head_img_url&quot;:&quot;https://wximg.qq.com/wxgame/rs/plat/default_head.png&quot;,&quot;profile_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/h5/static/pureprofile/index.html?t=g1Nlbyo8gZlTR9PvPpsE2cnGspJQ&amp;tab_type=0&amp;wechat_pkgid=pureprofile_index&quot;,&quot;openid&quot;:&quot;g1Nlbyo8gZlTR9PvPpsE2cnGspJQ&quot;,&quot;user_custom_info&quot;:{&quot;game_info&quot;:&quot;最强王者14星&quot;,&quot;game_info_color_key&quot;:&quot;default_color&quot;,&quot;score_icon&quot;:&quot;https://mmgame.qpic.cn/image/28c452dd5a1237853cb6a4ef2f37de37ebcb7f51a2ba79fc82e0dfe6edfd38e4/0&quot;,&quot;icon_url&quot;:&quot;https://mmgame.qpic.cn/image/28c452dd5a1237853cb6a4ef2f37de37ebcb7f51a2ba79fc82e0dfe6edfd38e4/0&quot;,&quot;desc&quot;:&quot;最强王者14星&quot;},&quot;user_relation_info&quot;:{&quot;group_relation_type&quot;:0},&quot;user_name&quot;:&quot;U1_BgAAr82z343y@gamelife&quot;,&quot;complain_url&quot;:&quot;https://weixin110.qq.com/security/readtemplate?t=weixin_report/w_type&amp;scene=60&amp;beexposechatname=U1_BgAAr82z343y%40gamelife&quot;,&quot;negative_type&quot;:2,&quot;tag_list&quot;:[{&quot;tag_name&quot;:&quot;最强王者14星&quot;,&quot;color_key&quot;:&quot;default_color&quot;,&quot;icon&quot;:&quot;https://mmgame.qpic.cn/image/28c452dd5a1237853cb6a4ef2f37de37ebcb7f51a2ba79fc82e0dfe6edfd38e4/0&quot;,&quot;type&quot;:1},{&quot;tag_name&quot;:&quot;常玩牛魔&quot;,&quot;icon&quot;:&quot;https://mmocgame.qpic.cn/wechatgame/duc2TvpEgSS3Bnkx4dn2HM4Uk9vrDNxeS6XOa0OtF0blkExZviaZJvjyFEdJY2wib5/0&quot;,&quot;type&quot;:5}],&quot;is_friend&quot;:false,&quot;is_authorized&quot;:false},&quot;interactive&quot;:{&quot;biz_flag&quot;:0,&quot;comment_list&quot;:[]},&quot;cluster_info_list&quot;:[],&quot;video_info&quot;:{&quot;duration&quot;:86,&quot;height&quot;:720,&quot;jump_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/h5/static/circle/immerse.html?content_id=5_EySnx_MNqTdQTE-zwQNA&amp;liteapp=liteapp%3A%2F%2Fwxalite842f9e8076010458697522e7db33761b%3Fpath%3Dpages%252Fimmerse%252Findex&amp;wechat_pkgid=circle_detail&quot;,&quot;snapshot&quot;:&quot;https://mmgamevideores.qpic.cn/wonderful-image3/wxgv8c91adc070dd4eb9a88534b03e3917a6.f103000.jpg&quot;,&quot;url&quot;:&quot;https://mmgamevideo.qpic.cn/wonderful-video3/wxgv8c91adc070dd4eb9a88534b03e3917a6.f103000.mp4?dis_k=a3eb97f81f7d158c58b952e7e59a281b&amp;dis_t=1715652088&amp;__mmgcrid=wxgv8c91adc070dd4eb9a88534b03e3917a6&quot;,&quot;width&quot;:1280,&quot;type&quot;:0,&quot;video_id&quot;:&quot;10690536270329&quot;,&quot;default_publish_content&quot;:&quot;来回顾一下我们的精彩配合。&quot;,&quot;game&quot;:{&quot;game_appid&quot;:&quot;wx95a3a4d7c627e07d&quot;,&quot;game_name&quot;:&quot;王者荣耀&quot;,&quot;app_type&quot;:1},&quot;content_new&quot;:&quot;今天你有被我秀到吗？&quot;,&quot;not_auto_play&quot;:false,&quot;last_expire_day&quot;:0,&quot;hevc_url&quot;:&quot;https://mmgamevideo.qpic.cn/wonderful-video3/wxgv8c91adc070dd4eb9a88534b03e3917a6.f103100.mp4?dis_k=775aa8fc7083f579587d342ea5a2a9dd&amp;dis_t=1715652088&amp;__mmgcrid=wxgv8c91adc070dd4eb9a88534b03e3917a6&quot;,&quot;codec_tag&quot;:1},&quot;content_tag_on_screen_list&quot;:[],&quot;is_red_dot&quot;:true,&quot;wonderful_video&quot;:{&quot;video_album_item&quot;:{&quot;video_id&quot;:&quot;10690536270329&quot;,&quot;content_id&quot;:&quot;5_EySnx_MNqTdQTE-zwQNA&quot;,&quot;create_time&quot;:1715651485,&quot;game&quot;:{&quot;game_appid&quot;:&quot;wx95a3a4d7c627e07d&quot;,&quot;game_name&quot;:&quot;王者荣耀&quot;,&quot;app_type&quot;:1},&quot;video&quot;:{&quot;play_url&quot;:&quot;https://mmgamevideo.qpic.cn/wonderful-video3/wxgv8c91adc070dd4eb9a88534b03e3917a6.f103000.mp4?dis_k=a3eb97f81f7d158c58b952e7e59a281b&amp;dis_t=1715652088&amp;__mmgcrid=wxgv8c91adc070dd4eb9a88534b03e3917a6&quot;,&quot;pic_url&quot;:&quot;https://mmgamevideores.qpic.cn/wonderful-image3/wxgv8c91adc070dd4eb9a88534b03e3917a6.f103000.jpg&quot;,&quot;height&quot;:720,&quot;width&quot;:1280,&quot;title&quot;:&quot;墨子 2/6/19&quot;,&quot;duration&quot;:86,&quot;content&quot;:&quot;我们的配合这么好，不能夸夸我嘛？逆枝觞恨底、海甸少年、又又韦&quot;,&quot;default_publish_content&quot;:&quot;来回顾一下我们的精彩配合。&quot;,&quot;share_content&quot;:&quot;叫我老高兄弟与逆枝觞恨底、海甸少年、又又韦的默契时刻&quot;,&quot;share_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/h5/static/circlecenter/zlvdetail.html?darkmode=1&amp;vid=10690536270329&quot;,&quot;feed_title&quot;:&quot;就问你这把过瘾不逆枝觞恨底、海甸少年、又又韦&quot;,&quot;content_new&quot;:&quot;今天你有被我秀到吗？&quot;,&quot;share_content_new&quot;:&quot;[我]与[队友]的默契时刻&quot;,&quot;profile_title&quot;:&quot;默契时刻&quot;,&quot;top_title&quot;:&quot;我的视频记录&quot;,&quot;share_second_content&quot;:&quot;来看看我的默契时刻视频够不够秀&quot;,&quot;is_delete&quot;:false,&quot;visible_status&quot;:0,&quot;hevc_url&quot;:&quot;https://mmgamevideo.qpic.cn/wonderful-video3/wxgv8c91adc070dd4eb9a88534b03e3917a6.f103100.mp4?dis_k=775aa8fc7083f579587d342ea5a2a9dd&amp;dis_t=1715652088&amp;__mmgcrid=wxgv8c91adc070dd4eb9a88534b03e3917a6&quot;,&quot;codec_tag&quot;:1,&quot;template_name&quot;:&quot;默契时刻&quot;},&quot;tag_list&quot;:[],&quot;externInfo&quot;:{&quot;desc&quot;:&quot;01:26&quot;,&quot;trans_info&quot;:&quot;{\&quot;battle_id\&quot;:\&quot;14865|1715611799|-180313296\&quot;, \&quot;video_id\&quot;:10690536270329, \&quot;appid\&quot;:\&quot;wx95a3a4d7c627e07d\&quot;}&quot;},&quot;is_owner&quot;:false,&quot;owner_info&quot;:{&quot;openid&quot;:&quot;owanlss2Kyx5MoowgfcYMDNGrEiU&quot;,&quot;nick_name&quot;:&quot;&quot;,&quot;head_img_url&quot;:&quot;https://wx.qlogo.cn/mmhead/QzPtZqIzA0nCnZ7sPuKYSibhHz5QLXUy6CegBNhJiayl6QibDWXknEV8g/132&quot;,&quot;username&quot;:&quot;U1_BgAAr82z343y@gamelife&quot;,&quot;profile_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/h5/static/pureprofile/index.html?t=g1Nlbyo8gZlTR9PvPpsE2cnGspJQ&amp;tab_type=1&amp;wechat_pkgid=pureprofile_index&quot;},&quot;wxfriends_team_mate_list&quot;:[{&quot;openid&quot;:&quot;owanlsgHVGBl5f_LjhEbd0NL9EBo&quot;,&quot;nick_name&quot;:&quot;逆枝殇恨底&quot;,&quot;username&quot;:&quot;U1_BgAAtYXp9CZ1eJI63VEOCrHux-Xpp9Va1rpmxt93za1BRR2kRZ96Ff16BZymUZSPvg_Q9Q@gamelife&quot;,&quot;profile_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/h5/static/pureprofile/index.html?wechat_pkgid=pureprofile_index&amp;username=U1_BgAAtYXp9CZ1eJI63VEOCrHux-Xpp9Va1rpmxt93za1BRR2kRZ96Ff16BZymUZSPvg_Q9Q%40gamelife&quot;},{&quot;openid&quot;:&quot;owanlsjXo67iiXLFCrC10o4oYfKQ&quot;,&quot;nick_name&quot;:&quot;陈&quot;,&quot;username&quot;:&quot;U1_BgAAtYXp9CZ1eJI6tpZxsyf0h18EjrAivsSaMYBho9SPl-PgGkhp8zvEpajYe0AZ7O41Qw@gamelife&quot;,&quot;profile_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/h5/static/pureprofile/index.html?wechat_pkgid=pureprofile_index&amp;username=U1_BgAAtYXp9CZ1eJI6tpZxsyf0h18EjrAivsSaMYBho9SPl-PgGkhp8zvEpajYe0AZ7O41Qw%40gamelife&quot;},{&quot;openid&quot;:&quot;owanlstrPqRLZOEwUHEr6c8Wf3dE&quot;,&quot;nick_name&quot;:&quot;多愚&quot;,&quot;username&quot;:&quot;U1_BgAAtYS4QXgFHr4yDldcsfmmOco8sKTZ_xHh_gKfLPRTkCjPuKfRY126yQrvNMyXodUM@gamelife&quot;,&quot;profile_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/h5/static/pureprofile/index.html?wechat_pkgid=pureprofile_index&amp;username=U1_BgAAtYS4QXgFHr4yDldcsfmmOco8sKTZ_xHh_gKfLPRTkCjPuKfRY126yQrvNMyXodUM%40gamelife&quot;}],&quot;source_type&quot;:29,&quot;feedback_url&quot;:&quot;https://support.qq.com/products/312752?customInfo=%7B%22vid%22%3A10690536270329%2C%22type%22%3A1%2C%22openid%22%3A%22owanlss2Kyx5MoowgfcYMDNGrEiU%22%2C%22battle_id%22%3A%2214865%7C1715611799%7C-180313296%22%2C%22report_json%22%3A%22%22%7D&quot;,&quot;wonderful_video_type&quot;:1,&quot;feed_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/h5/static/circlecenter/zlvdetail.html?darkmode=1&amp;vid=10690536270329&quot;,&quot;mix_tag_info&quot;:{&quot;wonderful_tag_list&quot;:[],&quot;new_tag_list&quot;:[],&quot;hero_tag_info&quot;:{&quot;hero_id&quot;:108,&quot;hero_name&quot;:&quot;墨子&quot;,&quot;hero_icon&quot;:&quot;https://mmocgame.qpic.cn/wechatgame/duc2TvpEgSTMaib82tOVJNhSzLI8tpzNiaBxsEmpnK8gRSx67GAMicAcJibzLPfYdZrD/0&quot;},&quot;battle_tag_list&quot;:[],&quot;video_tag_list&quot;:[{&quot;tag_id&quot;:4,&quot;tag_name&quot;:&quot;实力局&quot;,&quot;weight&quot;:4},{&quot;tag_id&quot;:1,&quot;tag_name&quot;:&quot;齐心协力&quot;,&quot;weight&quot;:1}]},&quot;feed_tag_list&quot;:[&quot;墨子&quot;],&quot;user_video_type&quot;:1,&quot;battle_info&quot;:{&quot;battle_title&quot;:&quot;对局详情&quot;,&quot;battle_jump_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/h5/static/smobadynamic/index.html?openid=owanlss2Kyx5MoowgfcYMDNGrEiU&amp;game_svr_entity=14865&amp;game_seq=1715611799&amp;relay_svr_entity=4114654000&amp;game_type=0&amp;weapp=weapp%3A%2F%2Fwx4a0a73ec028e47d7%3Freferrer_appid%3Dwx62d9035fd4fd2059%26path%3Dpages%252Fbattle%252Fbattle.html%253Fgame_svr_entity%253D14865%2526game_seq%253D1715611799%2526relay_svr_entity%253D4114654000%2526openid%253Dowanlss2Kyx5MoowgfcYMDNGrEiU%2526from%253Dh5%2526game_type%253D0&amp;wechat_pkgid=smobadynamic_index&quot;,&quot;more_title&quot;:&quot;更多视频&quot;,&quot;more_jump_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/h5/static/pureprofile/index.html?t=g1Nlbyq6JL3F2ptJgqFx_iiA8FGI&amp;tab_type=1&amp;wechat_pkgid=pureprofile_index&quot;,&quot;title_kill_num&quot;:2},&quot;leaderboard_info&quot;:{&quot;video_score&quot;:19.4},&quot;is_publish&quot;:false,&quot;jump_info&quot;:{&quot;publish_jump_info&quot;:{&quot;jump_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/h5/static/appcenter/publish.html?scene=zhiling&quot;},&quot;preview_jump_info&quot;:{&quot;jump_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/h5/static/circlecenter/zlvdetail.html?darkmode=1&amp;vid=10690536270329&quot;}},&quot;template_name&quot;:&quot;默契时刻&quot;,&quot;user_wx_info&quot;:{&quot;openid&quot;:&quot;owanlss2Kyx5MoowgfcYMDNGrEiU&quot;,&quot;nick_name&quot;:&quot;叫我老高兄弟&quot;,&quot;username&quot;:&quot;U1_BgAAr82z343y@gamelife&quot;,&quot;profile_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/h5/static/pureprofile/index.html?wechat_pkgid=pureprofile_index&amp;username=U1_BgAAr82z343y%40gamelife&quot;},&quot;relation_type&quot;:5,&quot;is_block&quot;:false,&quot;team_mate_list&quot;:[{&quot;openid&quot;:&quot;owanlstrPqRLZOEwUHEr6c8Wf3dE&quot;,&quot;role_id&quot;:&quot;3288_owanlstrPqRLZOEwUHEr6c8Wf3dE&quot;,&quot;nick_name&quot;:&quot;又又韦&quot;,&quot;hero_id&quot;:121},{&quot;openid&quot;:&quot;owanlsrXbZyWg5aSjEHrV5c3US3M&quot;,&quot;role_id&quot;:&quot;4029_owanlsrXbZyWg5aSjEHrV5c3US3M&quot;,&quot;nick_name&quot;:&quot;专坑会飞胖子&quot;,&quot;hero_id&quot;:167},{&quot;openid&quot;:&quot;owanlsgHVGBl5f_LjhEbd0NL9EBo&quot;,&quot;role_id&quot;:&quot;3164_owanlsgHVGBl5f_LjhEbd0NL9EBo&quot;,&quot;nick_name&quot;:&quot;逆枝觞恨底&quot;,&quot;hero_id&quot;:174},{&quot;openid&quot;:&quot;owanlsjXo67iiXLFCrC10o4oYfKQ&quot;,&quot;role_id&quot;:&quot;4024_owanlsjXo67iiXLFCrC10o4oYfKQ&quot;,&quot;nick_name&quot;:&quot;海甸少年&quot;,&quot;hero_id&quot;:152}],&quot;opponent_list&quot;:[{&quot;openid&quot;:&quot;owanlskGBDzMq_HrlyRGr5PZ7aNQ&quot;,&quot;role_id&quot;:&quot;3126_owanlskGBDzMq_HrlyRGr5PZ7aNQ&quot;,&quot;nick_name&quot;:&quot;菠萝难敌四手&quot;,&quot;hero_id&quot;:132},{&quot;openid&quot;:&quot;owanlst7lIl0C-mHuVtXu3W3SviE&quot;,&quot;role_id&quot;:&quot;3029_owanlst7lIl0C-mHuVtXu3W3SviE&quot;,&quot;nick_name&quot;:&quot;二沉默宝石&quot;,&quot;hero_id&quot;:129},{&quot;openid&quot;:&quot;owanlshB4ycemfndlmRERuYVhn-Q&quot;,&quot;role_id&quot;:&quot;3255_owanlshB4ycemfndlmRERuYVhn-Q&quot;,&quot;nick_name&quot;:&quot;麦兜想胖了&quot;,&quot;hero_id&quot;:123},{&quot;openid&quot;:&quot;owanlsjK87UfdWDR_5H9NcM-ww94&quot;,&quot;role_id&quot;:&quot;3152_owanlsjK87UfdWDR_5H9NcM-ww94&quot;,&quot;nick_name&quot;:&quot;今夜就告别¹&quot;,&quot;hero_id&quot;:513},{&quot;openid&quot;:&quot;owanlsqP-Kl899LF6Jjcqv4_WDB4&quot;,&quot;role_id&quot;:&quot;3068_owanlsqP-Kl899LF6Jjcqv4_WDB4&quot;,&quot;nick_name&quot;:&quot;ㅤ  &quot;,&quot;hero_id&quot;:501}],&quot;cluster_index_list&quot;:[],&quot;pandent_info&quot;:{&quot;hero_id&quot;:108,&quot;skin_id&quot;:3,&quot;skin_url&quot;:&quot;https://mmgame.qpic.cn/image/bce587fc1b177d07bf7a08588c6abfc21347147290fbc0403457daf5fc93f8a6/0&quot;,&quot;color&quot;:&quot;#3f4766&quot;}},&quot;more_jump_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/h5/static/gameservice/center.html?wechat_pkgid=gameservice_center&amp;appid=wx95a3a4d7c627e07d&amp;ssid=1850&amp;tab_type=3&quot;,&quot;total_count&quot;:2,&quot;publish_recommend&quot;:{&quot;prefix_text&quot;:&quot;发表动态，让更多朋友看到&quot;,&quot;recommend_type&quot;:0},&quot;relation_type&quot;:0},&quot;need_top&quot;:true,&quot;friend_info&quot;:{&quot;desc&quot;:&quot;默契时刻&quot;,&quot;is_publish&quot;:false,&quot;is_new&quot;:false,&quot;is_save_cloud&quot;:false,&quot;icon_url_list&quot;:[],&quot;wxfriends_team_mate_list&quot;:[]},&quot;video_list&quot;:[],&quot;can_share_to_chatroom&quot;:false,&quot;msg_pack_extend_list&quot;:[],&quot;topic_feed_list&quot;:[],&quot;hash_id&quot;:362670585,&quot;service_entrance&quot;:{&quot;type&quot;:8,&quot;asyn_type&quot;:1,&quot;asyn_content_id&quot;:&quot;wx95a3a4d7c627e07d&quot;},&quot;feature_str&quot;:&quot;ZLx4UzfdQvCpW7mXB7LLuA&quot;,&quot;service_entrance_list&quot;:[],&quot;user_list&quot;:[],&quot;cover_pic_list&quot;:[],&quot;content_entrance_list&quot;:[]},&quot;type&quot;:2}]]></preload></extra_data><report><msg_subtype>117</msg_subtype><noticeid>800720</noticeid><ext_data>{&quot;biz_subtype&quot;:800720,&quot;content_id&quot;:&quot;&quot;,&quot;friend_uin&quot;:2665527963,&quot;interactive&quot;:8007074,&quot;send_time&quot;:1715684089,&quot;text&quot;:&quot;朋友最新默契时刻&quot;}</ext_data><business_data>{&quot;biz_type&quot;:9,&quot;data&quot;:&quot;{\&quot;video_id\&quot;:\&quot;10690536270329\&quot;,\&quot;notice_id\&quot;:\&quot;96317049\&quot;,\&quot;tab_id\&quot;:3}&quot;,&quot;sys_report&quot;:{&quot;msg_type&quot;:117,&quot;interactive&quot;:8007074,&quot;biz_subtype&quot;:800720}}</business_data></report><jump_info></jump_info><exposure_strategy><history_message_list><msg_id>wonderful_video_player_256953|1715507755|1814070080</msg_id><click_score>63.120998</click_score></history_message_list><history_message_list><msg_id>mmocgamegroup_publish_topic_673476038</msg_id><click_score>53.841862</click_score></history_message_list><history_message_list><msg_id>wonderful_video_player_249998|1715411843|-350182608</msg_id><click_score>50.480358</click_score></history_message_list><history_message_list><msg_id>mmocgamegroup_publish_topic_671822542</msg_id><click_score>50.423679</click_score></history_message_list><history_message_list><msg_id>wonderful_video_player_246459|1715351152|1423999552</msg_id><click_score>49.346085</click_score></history_message_list><history_message_list><msg_id>mmocgamegroup_publish_topic_672482703</msg_id><click_score>47.666344</click_score></history_message_list><history_message_list><msg_id>mmocgamegroup_publish_topic_673118151</msg_id><click_score>46.785595</click_score></history_message_list><history_message_list><msg_id>wonderful_video_player_210981|1715519467|1793114672</msg_id><click_score>42.171989</click_score></history_message_list><history_message_list><msg_id>timeline_game_card_2214684011852008073</msg_id><click_score>39.429703</click_score></history_message_list><history_message_list><msg_id>timeline_game_card_2214684011976526572</msg_id><click_score>37.478409</click_score></history_message_list><expire_time_strategy><enabled></enabled></expire_time_strategy><battery_strategy><enabled></enabled></battery_strategy><wifi_strategy><enabled></enabled></wifi_strategy><exposure_count>28</exposure_count><channel>2</channel><click_score>42.918957</click_score><ignore_exceed_exposure>1</ignore_exceed_exposure></exposure_strategy></gamecenter></sysmsg>
+[2024-05-14 18:54:50.741] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 18105
+[2024-05-14 18:55:08.239] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 能赚钱不
+[2024-05-14 18:55:08.239] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 310
+[2024-05-14 18:55:26.371] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='11'>
+<name>HandOffMaster</name>
+<arg>
+<handofflist opcode="4" seq="115222" devicevirtualid="ea9f8a12c26ff996e32bbe90eebc5a8b" networkstatus="net_type:not-wifi" availablecount="1000" currentfloatwindowcount="2" currenthandoffcount="0"><handoff id="03a40a953d618b3d901395f021ef73d9" createtime="1704764601000" type="2" to="" from=""><handofftype><![CDATA[2]]></handofftype><title><![CDATA[4个完整案例，一次性讲明白爬虫逆向！]]></title><url><![CDATA[https://mp.weixin.qq.com/s/Y9g3gZdvyWYwSLuntgh4rA]]></url><icon><![CDATA[http://wx.qlogo.cn/mmhead/Q3auHgzwzM49339nGACrVn2oVYI8bNOsnTH5N2XDbEiaw0ZhfNWgGqQ/132]]></icon></handoff><handoff id="1975509941_1686734332304_85930" createtime="1686734367000" type="2" to="" from=""><handofftype><![CDATA[2]]></handofftype><title><![CDATA[一位老程序员的忠告：别想着靠技术生存一辈子]]></title><url><![CDATA[https://mp.weixin.qq.com/s/QllGNas4u-f8b81ivoYBtg]]></url><icon><![CDATA[http://wx.qlogo.cn/mmhead/Q3auHgzwzM7kicAtDlWsHFalBcMJKRcb23ImzOVXcfdqleWk3Q9A8Ag/132]]></icon></handoff></handofflist>
+</arg>
+</op>
+</msg>
+[2024-05-14 18:55:26.371] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 1315
+[2024-05-14 18:55:27.516] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='2'>
+<username>34504526654@chatroom</username>
+<name>lastMessage</name>
+<arg>{"messageSvrId":"3824440573976412142","MsgCreateTime":"1715684106"}</arg>
+</op>
+</msg>
+[2024-05-14 18:55:27.516] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 406
+[2024-05-14 18:55:31.897] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 不能[呲牙]
+[2024-05-14 18:55:31.897] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 292
+[2024-05-14 18:55:35.286] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 瞎几把玩
+[2024-05-14 18:55:35.286] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 290
+[2024-05-14 18:55:40.208] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='1'>
+<username>34504526654@chatroom</username>
+<name>lastMessage</name>
+<arg>{"messageSvrId":"1064365430595378797","MsgCreateTime":"1715684134"}</arg>
+</op>
+</msg>
+[2024-05-14 18:55:40.208] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 406
+[2024-05-14 18:57:32.970] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+    <appmsg appid="" sdkver="0">
+        <title><![CDATA[贵州省戒烟门诊信息汇总｜远离烟草危害，走出戒烟困境]]></title>
+        <des><![CDATA[]]></des>
+        <action></action>
+        <type>5</type>
+        <showtype>1</showtype>
+        <content><![CDATA[]]></content>
+        <contentattr>0</contentattr>
+        <url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzUyMzY5Mzk0NA==&mid=2247574427&idx=1&sn=8d8e5f98cd94fd0fed74d31382754928&chksm=fb4226adaae2803e4faa2edd7fa113bf74eb8b83ef61ff4867fe5ea96ccebc2bac85a1eab35d&scene=0&xtrack=1#rd]]></url>
+        <lowurl><![CDATA[]]></lowurl>
+        <appattach>
+            <totallen>0</totallen>
+            <attachid></attachid>
+            <fileext></fileext>
+        </appattach>
+        <extinfo></extinfo>
+        <mmreader>
+            <category type="20" count="3">
+                <name><![CDATA[贵州疾控]]></name>
+                <topnew>
+                    <cover><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/spQhS3ib5GQnWhSF9UNapF6CopdvMHecoGz3JszDAxbwOic0dl1XprZLKMzfmuH1gxtMuYibFmYIiaTOLaI3l1ovjA/640?wxtype=jpeg&wxfrom=0]]></cover>
+                    <width>0</width>
+                    <height>0</height>
+                    <digest><![CDATA[]]></digest>
+                </topnew>
+                
+                <item>
+                    <has_redpacket_cover>0</has_redpacket_cover>
+                    <text_title><![CDATA[]]></text_title>
+                    <itemshowtype>0</itemshowtype>
+                    <title><![CDATA[贵州省戒烟门诊信息汇总｜远离烟草危害，走出戒烟困境]]></title>
+                    <url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzUyMzY5Mzk0NA==&mid=2247574427&idx=1&sn=8d8e5f98cd94fd0fed74d31382754928&chksm=fb26a6d28f3644b0ad7d454ad761f9e9b0de2d23bad4d416077ffaade3db8a8e4ff656d93606&scene=0&xtrack=1#rd]]></url>
+                    <shorturl><![CDATA[]]></shorturl>
+                    <longurl><![CDATA[]]></longurl>
+                    <pub_time>1715684124</pub_time>
+                    <summary><![CDATA[烟草危害是当今严重的公共卫生问题之一，吸烟不仅会摧毁人体的肺，还会对心脑血管、呼吸道、消化道、口腔、眼睛等全身多个系统、多个器官造成危害，增加肺癌、冠心病、慢性支气管炎、消化性溃疡、白内障等疾病的风险]]></summary>
+                    <cover><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/spQhS3ib5GQnWhSF9UNapF6CopdvMHecoGz3JszDAxbwOic0dl1XprZLKMzfmuH1gxtMuYibFmYIiaTOLaI3l1ovjA/640?wxtype=jpeg&wxfrom=0]]></cover>
+                    <tweetid></tweetid>
+                    <digest><![CDATA[]]></digest>
+                    <fileid>100090776</fileid>
+                    <sources>
+                        <source>
+                            <name><![CDATA[贵州疾控]]></name>
+                        </source>
+                    </sources>
+                    <styles></styles>
+                    <native_url></native_url>
+                    <del_flag>0</del_flag>
+                    <contentattr>0</contentattr>
+                    <play_length>0</play_length>
+                    <play_url><![CDATA[]]></play_url>
+                    <voice_id><![CDATA[]]></voice_id>
+                    <tid><![CDATA[]]></tid>
+                    <nonce_id><![CDATA[]]></nonce_id>
+                    <voice_type>0</voice_type>
+<player><![CDATA[]]></player>
+                     
+                    
+                    <music_source>0</music_source>
+                    <pic_num>0</pic_num>
+                    <vid></vid>
+                    <author><![CDATA[]]></author>
+                    <recommendation><![CDATA[]]></recommendation>
+                    <pic_urls></pic_urls>
+                    <multi_picture_cover></multi_picture_cover>
+                    <comment_topic_id>3457647550667161608</comment_topic_id>
+                    <cover_235_1><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/spQhS3ib5GQnWhSF9UNapF6CopdvMHecoGz3JszDAxbwOic0dl1XprZLKMzfmuH1gxtMuYibFmYIiaTOLaI3l1ovjA/640?wxtype=jpeg&wxfrom=0]]></cover_235_1>
+                    <cover_1_1><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/spQhS3ib5GQnWhSF9UNapF6CopdvMHecoWHLiaywuE5gH8yd94U3eqcb2B0kbLSzO9JDuQaMZWsdBQXUZptCib6kw/300?wxtype=jpeg&wxfrom=0]]></cover_1_1>
+                    <cover_16_9><![CDATA[]]></cover_16_9>
+                    <appmsg_like_type>2</appmsg_like_type>
+                    <video_width>0</video_width>
+                    <video_height>0</video_height>
+                    <is_pay_subscribe>0</is_pay_subscribe>
+			<finder_feed>
+			    <object_id><![CDATA[]]></object_id>
+			    <object_nonce_id><![CDATA[]]></object_nonce_id>
+			    <feed_type>0</feed_type>
+			    <nickname><![CDATA[]]></nickname>
+			    <avatar><![CDATA[]]></avatar>
+			    <desc><![CDATA[]]></desc>
+			    <media_count>0</media_count>
+			    <media_list>
+				
+			    </media_list>
+			    <mega_video>
+				<object_id><![CDATA[]]></object_id>
+				<object_nonce_id><![CDATA[]]></object_nonce_id>
+			    </mega_video>
+			</finder_feed>
+                        <finder_live>
+                            <finder_username><![CDATA[]]></finder_username>
+                            <category><![CDATA[]]></category>
+                            <finder_nonce_id><![CDATA[]]></finder_nonce_id>
+                            <export_id><![CDATA[]]></export_id>
+                            <nickname><![CDATA[]]></nickname>
+                            <head_url><![CDATA[]]></head_url>
+                            <desc><![CDATA[]]></desc>
+                            <live_status></live_status>
+                            <live_source_type_str><![CDATA[]]></live_source_type_str>
+                            <ext_flag></ext_flag>
+                            <auth_icon_url><![CDATA[]]></auth_icon_url>
+                            <auth_icon_type_str><![CDATA[]]></auth_icon_type_str>
+                            <media>
+                                <cover_url><![CDATA[]]></cover_url>
+                                <height></height>
+                                <width></width>
+                            </media>
+                        </finder_live>
+                </item>
+                
+                <item>
+                    <has_redpacket_cover>0</has_redpacket_cover>
+                    <text_title><![CDATA[]]></text_title>
+                    <itemshowtype>0</itemshowtype>
+                    <title><![CDATA[全民营养周之豆类这位主角，来了解一下]]></title>
+                    <url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzUyMzY5Mzk0NA==&mid=2247574427&idx=2&sn=107cb0665e1abd4dd535d9ea9e7b9c9d&chksm=fb9dd29bc9a9b72f493a30b248fa6c88ffda73455e7087d72ca3d0299e31ee988f84c365d694&scene=0&xtrack=1#rd]]></url>
+                    <shorturl><![CDATA[]]></shorturl>
+                    <longurl><![CDATA[]]></longurl>
+                    <pub_time>1715684124</pub_time>
+                    <summary><![CDATA[2024年全民营养周传播主题：奶豆添营养，少油更健康。LOGO以圆形标志为核心符号，巧妙地将蓝色流动的奶、黄青色为主的大豆、逐渐减少的油滴融合为一体，呼吁大众多吃奶类和大豆，并避免过多摄入烹调油，一起]]></summary>
+                    <cover><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/spQhS3ib5GQnWhSF9UNapF6CopdvMHecoqIyOKibWxMtV0jn4RiblcvcE3CjGMXTUAiayDgjqokM8icXUY1jGjrNKqA/300?wxtype=jpeg&wxfrom=0]]></cover>
+                    <tweetid></tweetid>
+                    <digest><![CDATA[]]></digest>
+                    <fileid>0</fileid>
+                    <sources>
+                        <source>
+                            <name><![CDATA[贵州疾控]]></name>
+                        </source>
+                    </sources>
+                    <styles></styles>
+                    <native_url></native_url>
+                    <del_flag>0</del_flag>
+                    <contentattr>0</contentattr>
+                    <play_length>0</play_length>
+                    <play_url><![CDATA[]]></play_url>
+                    <voice_id><![CDATA[]]></voice_id>
+                    <tid><![CDATA[]]></tid>
+                    <nonce_id><![CDATA[]]></nonce_id>
+                    <voice_type>0</voice_type>
+<player><![CDATA[]]></player>
+                     
+                    
+                    <music_source>0</music_source>
+                    <pic_num>0</pic_num>
+                    <vid></vid>
+                    <author><![CDATA[]]></author>
+                    <recommendation><![CDATA[]]></recommendation>
+                    <pic_urls></pic_urls>
+                    <multi_picture_cover></multi_picture_cover>
+                    <comment_topic_id>3457647551858343939</comment_topic_id>
+                    <cover_235_1><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/spQhS3ib5GQnWhSF9UNapF6CopdvMHecoWj2GDtrW1R4eCVxia1uyjaLXOjRBroe4rcg4f0giccOfmIeY6aFqjbfA/300?wxtype=jpeg&wxfrom=0]]></cover_235_1>
+                    <cover_1_1><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/spQhS3ib5GQnWhSF9UNapF6CopdvMHecoqIyOKibWxMtV0jn4RiblcvcE3CjGMXTUAiayDgjqokM8icXUY1jGjrNKqA/300?wxtype=jpeg&wxfrom=0]]></cover_1_1>
+                    <cover_16_9><![CDATA[]]></cover_16_9>
+                    <appmsg_like_type>2</appmsg_like_type>
+                    <video_width>0</video_width>
+                    <video_height>0</video_height>
+                    <is_pay_subscribe>0</is_pay_subscribe>
+			<finder_feed>
+			    <object_id><![CDATA[]]></object_id>
+			    <object_nonce_id><![CDATA[]]></object_nonce_id>
+			    <feed_type>0</feed_type>
+			    <nickname><![CDATA[]]></nickname>
+			    <avatar><![CDATA[]]></avatar>
+			    <desc><![CDATA[]]></desc>
+			    <media_count>0</media_count>
+			    <media_list>
+				
+			    </media_list>
+			    <mega_video>
+				<object_id><![CDATA[]]></object_id>
+				<object_nonce_id><![CDATA[]]></object_nonce_id>
+			    </mega_video>
+			</finder_feed>
+                        <finder_live>
+                            <finder_username><![CDATA[]]></finder_username>
+                            <category><![CDATA[]]></category>
+                            <finder_nonce_id><![CDATA[]]></finder_nonce_id>
+                            <export_id><![CDATA[]]></export_id>
+                            <nickname><![CDATA[]]></nickname>
+                            <head_url><![CDATA[]]></head_url>
+                            <desc><![CDATA[]]></desc>
+                            <live_status></live_status>
+                            <live_source_type_str><![CDATA[]]></live_source_type_str>
+                            <ext_flag></ext_flag>
+                            <auth_icon_url><![CDATA[]]></auth_icon_url>
+                            <auth_icon_type_str><![CDATA[]]></auth_icon_type_str>
+                            <media>
+                                <cover_url><![CDATA[]]></cover_url>
+                                <height></height>
+                                <width></width>
+                            </media>
+                        </finder_live>
+                </item>
+                
+                <item>
+                    <has_redpacket_cover>0</has_redpacket_cover>
+                    <text_title><![CDATA[]]></text_title>
+                    <itemshowtype>0</itemshowtype>
+                    <title><![CDATA[新冠病毒KP.2变异株，你需要了解的都在这里]]></title>
+                    <url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzUyMzY5Mzk0NA==&mid=2247574427&idx=3&sn=d071bb84ec74eccf0c7a8b0dc6e73992&chksm=fbe0afe169e5c68535b91807545613d7bca84722b97f584908c35148d1c04aeaf09646ef4340&scene=0&xtrack=1#rd]]></url>
+                    <shorturl><![CDATA[]]></shorturl>
+                    <longurl><![CDATA[]]></longurl>
+                    <pub_time>1715684124</pub_time>
+                    <summary><![CDATA[一、什么是KP.2变异株？KP.2是新冠病毒奥密克戎JN.1变异株的第三代亚分支，也是JN.1变异株中具有较强传播优势的一个亚分支，于2024年1月2日在印度采集的样本中首次监测到。2月以来，由于KP]]></summary>
+                    <cover><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/spQhS3ib5GQnWhSF9UNapF6CopdvMHecoF4UmdXyUEDBicPe1TSujBXGxVWeRcQCFsy9rjaehcZdlNibTS8vgGf0Q/300?wxtype=jpeg&wxfrom=0]]></cover>
+                    <tweetid></tweetid>
+                    <digest><![CDATA[]]></digest>
+                    <fileid>100082787</fileid>
+                    <sources>
+                        <source>
+                            <name><![CDATA[贵州疾控]]></name>
+                        </source>
+                    </sources>
+                    <styles></styles>
+                    <native_url></native_url>
+                    <del_flag>0</del_flag>
+                    <contentattr>0</contentattr>
+                    <play_length>0</play_length>
+                    <play_url><![CDATA[]]></play_url>
+                    <voice_id><![CDATA[]]></voice_id>
+                    <tid><![CDATA[]]></tid>
+                    <nonce_id><![CDATA[]]></nonce_id>
+                    <voice_type>0</voice_type>
+<player><![CDATA[]]></player>
+                     
+                    
+                    <music_source>0</music_source>
+                    <pic_num>0</pic_num>
+                    <vid></vid>
+                    <author><![CDATA[]]></author>
+                    <recommendation><![CDATA[]]></recommendation>
+                    <pic_urls></pic_urls>
+                    <multi_picture_cover></multi_picture_cover>
+                    <comment_topic_id>3457647552848199683</comment_topic_id>
+                    <cover_235_1><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/spQhS3ib5GQnWhSF9UNapF6CopdvMHecoj8zefTgpHicKBeUmWmFA7XTiaeU7a9iasNfaqxVqfibkJO8wqUuib2gLf3g/300?wxtype=jpeg&wxfrom=0]]></cover_235_1>
+                    <cover_1_1><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/spQhS3ib5GQnWhSF9UNapF6CopdvMHecoF4UmdXyUEDBicPe1TSujBXGxVWeRcQCFsy9rjaehcZdlNibTS8vgGf0Q/300?wxtype=jpeg&wxfrom=0]]></cover_1_1>
+                    <cover_16_9><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/spQhS3ib5GQnWhSF9UNapF6CopdvMHecoF4UmdXyUEDBicPe1TSujBXGxVWeRcQCFsy9rjaehcZdlNibTS8vgGf0Q/300?wxtype=jpeg&wxfrom=0]]></cover_16_9>
+                    <appmsg_like_type>2</appmsg_like_type>
+                    <video_width>0</video_width>
+                    <video_height>0</video_height>
+                    <is_pay_subscribe>0</is_pay_subscribe>
+			<finder_feed>
+			    <object_id><![CDATA[]]></object_id>
+			    <object_nonce_id><![CDATA[]]></object_nonce_id>
+			    <feed_type>0</feed_type>
+			    <nickname><![CDATA[]]></nickname>
+			    <avatar><![CDATA[]]></avatar>
+			    <desc><![CDATA[]]></desc>
+			    <media_count>0</media_count>
+			    <media_list>
+				
+			    </media_list>
+			    <mega_video>
+				<object_id><![CDATA[]]></object_id>
+				<object_nonce_id><![CDATA[]]></object_nonce_id>
+			    </mega_video>
+			</finder_feed>
+                        <finder_live>
+                            <finder_username><![CDATA[]]></finder_username>
+                            <category><![CDATA[]]></category>
+                            <finder_nonce_id><![CDATA[]]></finder_nonce_id>
+                            <export_id><![CDATA[]]></export_id>
+                            <nickname><![CDATA[]]></nickname>
+                            <head_url><![CDATA[]]></head_url>
+                            <desc><![CDATA[]]></desc>
+                            <live_status></live_status>
+                            <live_source_type_str><![CDATA[]]></live_source_type_str>
+                            <ext_flag></ext_flag>
+                            <auth_icon_url><![CDATA[]]></auth_icon_url>
+                            <auth_icon_type_str><![CDATA[]]></auth_icon_type_str>
+                            <media>
+                                <cover_url><![CDATA[]]></cover_url>
+                                <height></height>
+                                <width></width>
+                            </media>
+                        </finder_live>
+                </item>
+                
+            </category>
+            <publisher>
+                <username><![CDATA[gh_dc411cdff729]]></username>
+                <nickname><![CDATA[贵州疾控]]></nickname>
+            </publisher>
+            <template_header></template_header>
+            <template_detail></template_detail>
+            <forbid_forward>0</forbid_forward>
+        </mmreader>
+        <thumburl><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/spQhS3ib5GQnWhSF9UNapF6CopdvMHecoGz3JszDAxbwOic0dl1XprZLKMzfmuH1gxtMuYibFmYIiaTOLaI3l1ovjA/640?wxtype=jpeg&wxfrom=0]]></thumburl>
+    </appmsg>
+    <fromusername><![CDATA[gh_dc411cdff729]]></fromusername>
+    <appinfo>
+        <version></version>
+        <appname><![CDATA[贵州疾控]]></appname>
+        <isforceupdate>1</isforceupdate>
+    </appinfo>
+    
+    
+    
+    
+    
+    
+</msg>
+[2024-05-14 18:57:32.971] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 17379
+[2024-05-14 18:57:32.972] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <?xml version="1.0"?>
+<msg>
+	<img aeskey="4065f19f29a948c9a21ead837b7382b7" encryver="1" cdnthumbaeskey="4065f19f29a948c9a21ead837b7382b7" cdnthumburl="3057020100044b304902010002041020218302032df85f02048097307002046643439a042461643237303832652d623730312d346666312d393263622d396237626331373836633130020405290a020201000405004c575f00" cdnthumblength="5607" cdnthumbheight="144" cdnthumbwidth="67" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="3057020100044b304902010002041020218302032df85f02048097307002046643439a042461643237303832652d623730312d346666312d393263622d396237626331373836633130020405290a020201000405004c575f00" length="109823" md5="749191303a0c70052a6685fb4524795e" hevc_mid_size="109823" originsourcemd5="da10225043efde224977d9cc63925a06" />
+	<platform_signature></platform_signature>
+	<imgdatahash></imgdatahash>
+	<ImgSourceInfo>
+		<ImgSourceUrl></ImgSourceUrl>
+		<BizType>0</BizType>
+	</ImgSourceInfo>
+</msg>
+
+[2024-05-14 18:57:32.972] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 1826
+[2024-05-14 18:57:44.631] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 出新闻报道了
+[2024-05-14 18:57:44.631] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 327
