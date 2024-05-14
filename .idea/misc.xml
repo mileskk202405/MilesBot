@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="weixinBot" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="weixinBot" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="MilesBot" project-jdk-type="Python SDK" />
 </project>
