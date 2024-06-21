@@ -1,3 +1,6 @@
 mongoengine==0.28.2
 pymem==1.13.1
 wcferry==39.0.14.1
+
+openai~=1.25.0
+websockets~=12.0

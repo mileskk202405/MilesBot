@@ -1,37 +1,47 @@
-from dbModel.UserModel import User
-from dbModel.MessageModel import Message
-
-userModel = User()
-
-user = userModel.getByWxid("wxid_91mel5i1nx6l1")
-messageModel = Message()
-# messageModel.wxId = '222'
-# messageModel.content = '你好2'
-# messageModel.type = 1
-# messageModel.isRead = 0
-# messageModel.isSend = 0
-# messageModel.direction = 0
-# messageModel.msgId = 2
+# import json
+# from websocket.CmdKit import CmdKit
 #
-# messageModel.save()
-# print(messageModel.wxId)
+# # 假设data是一个Python字典或列表
+# data = {'key': 'value'}
 #
-# user.message.append(messageModel)
-# user.save()
-print(user.wxId)
+# # 将data序列化为JSON格式的字符串
+# json_string = json.dumps(data)
+#
+# # 将JSON字符串转换为bytes类型
+# binary_data = json_string.encode('utf-8')
+#
+# print(binary_data)
+#
+# cmdMerge = CmdKit.merge(1, 2)
+#
+# print(cmdMerge)
+#
+# msg = {
+#     "cmdCode": 1,
+#     "protocolSwitch": 0,
+#     "cmdMerge": cmdMerge,
+#     "responseStatus": 0,
+#     "validMsg": "",
+#     "data": data
+# }
+# msg_string = json.dumps(msg)
+# msg_data = msg_string.encode('utf-8')
+#
+# print(msg_data)
+import array
+import asyncio
+import json
 
-chatLogList = Message.getList(user.wxId,10)
-messages = []
-for chatLog in chatLogList:
-    if chatLog.direction == 0:
-        messages.append({
-            "role": "user",
-            "content": chatLog.content
-        })
-    else:
-        messages.append({
-            "role": "assistant",
-            "content": chatLog.content
-        })
-messages.reverse()
-print(messages)
+from websocket.WebSocketClient import WebSocketClient
+
+
+async def start():
+    url = "ws://192.168.31.66:12000/websocket"
+    client = WebSocketClient(url, reconnect_interval=10)  # 重连间隔设置为10秒
+    await client.run()
+    # await client.endMessage()
+
+
+# 使用示例
+if __name__ == "__main__":
+    asyncio.run(start())
